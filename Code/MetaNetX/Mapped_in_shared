@@ -1,0 +1,14 @@
+MNXM1	H(+)	H	1	1.0079	InChI=1S/p+1	[H+]	chebi:15378
+MNXM111	Fe(2+)	Fe	2	55.845	InChI=1S/Fe/q+2	[Fe++]	chebi:29033
+MNXM117	urea	CH4N2O	0	60.0553	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	NC(N)=O	chebi:16199
+MNXM13	CO2	CO2	0	44.0095	InChI=1S/CO2/c2-1-3	O=C=O	chebi:16526
+MNXM2	H2O	H2O	0	18.0153	InChI=1S/H2O/h1H2	[H]O[H]	chebi:15377
+MNXM207	nitrate	NO3	-1	62.0049	InChI=1S/NO3/c2-1(3)4/q-1	[O-][N+]([O-])=O	chebi:17632
+MNXM27	Na(+)	Na	1	22.9898	InChI=1S/Na/q+1	[Na+]	chebi:29101
+MNXM285	(R)-lactate	C3H5O3	-1	89.07	InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)/p-1/t2-/m1/s1	C[C@@H](O)C([O-])=O	chebi:16004
+MNXM4	O2	O2	0	31.9988	InChI=1S/O2/c1-2	O=O	chebi:15379
+MNXM43	chloride	Cl	-1	35.453	InChI=1S/ClH/h1H/p-1	[Cl-]	chebi:17996
+MNXM58	sulfate	O4S	-2	96.0626	InChI=1S/H2O4S/c1-5(2,3)4/h(H2,1,2,3,4)/p-2	[O-]S([O-])(=O)=O	chebi:16189
+MNXM653	Mg(2+)	Mg	2	24.305	InChI=1S/Mg/q+2	[Mg++]	chebi:18420
+MNXM84	NH3	H4N	1	18.0385			seed:cpd00013
+MNXM9	phosphate	HO4P	-2	95.9793	InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)/p-2	OP([O-])([O-])=O	chebi:43474

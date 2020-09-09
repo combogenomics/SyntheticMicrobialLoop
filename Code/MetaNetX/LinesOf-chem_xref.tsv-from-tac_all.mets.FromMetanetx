@@ -1,0 +1,1128 @@
+seed:cpd00001	MNXM2	inferred	H2O|HO-|OH-|Water|h2o
+seed:cpd00001	MNXM2	inferred	H2O|HO-|OH-|Water|h2o
+seed:cpd00002	MNXM3	inferred	ATP|Adenosine 5'-triphosphate|atp
+seed:cpd00003	MNXM8	inferred	DPN|Diphosphopyridine nucleotide|NAD|NAD+|Nadide|Nicotinamide adenine dinucleotide|Nicotinamideadeninedinucleotide|nad
+seed:cpd00004	MNXM10	inferred	DPNH|NADH|Nicotinamide adenine dinucleotide - reduced|Nicotinamideadeninedinucleotide-reduced|nadh
+seed:cpd00005	MNXM6	inferred	NADPH|Nicotinamide adenine dinucleotide phosphate - reduced|Nicotinamideadeninedinucleotidephosphate-reduced|TPNH|nadph
+seed:cpd00006	MNXM5	inferred	NADP|NADP+|Nicotinamide adenine dinucleotide phosphate|Nicotinamide adenine dinucleotide phosphate -|Nicotinamideadeninedinucleotidephosphate|TPN|Triphosphopyridine nucleotide|beta-Nicotinamide adenine dinucleotide phosphate|nadp
+seed:cpd00007	MNXM4	inferred	O2|Oxygen|dioxygen|o2
+seed:cpd00007	MNXM4	inferred	O2|Oxygen|dioxygen|o2
+seed:cpd00008	MNXM7	inferred	ADP|Adenosine 5'-diphosphate|adp
+seed:cpd00009	MNXM9	inferred	Orthophosphate|Orthophosphoric acid|Phosphate|Phosphoric acid|pi
+seed:cpd00009	MNXM9	inferred	Orthophosphate|Orthophosphoric acid|Phosphate|Phosphoric acid|pi
+seed:cpd00010	MNXM12	inferred	CoA|CoA-SH|Coenzyme A|CoenzymeA|coa
+seed:cpd00010	MNXM12	inferred	CoA|CoA-SH|Coenzyme A|CoenzymeA|coa
+seed:cpd00011	MNXM13	inferred	CO2|Carbon dioxide|co2
+seed:cpd00011	MNXM13	inferred	CO2|Carbon dioxide|co2
+seed:cpd00012	MNXM11	inferred	Diphosphate|PPi|Pyrophosphate|Pyrophosphoric acid|ppi
+seed:cpd00012	MNXM11	inferred	Diphosphate|PPi|Pyrophosphate|Pyrophosphoric acid|ppi
+seed:cpd00013	MNXM84	identity	Ammonia|Ammonium|NH3|NH4+|NH4plus|nh4
+seed:cpd00013	MNXM84	identity	Ammonia|Ammonium|NH3|NH4+|NH4plus|nh4
+seed:cpd00014	MNXM17	inferred	UDP|Uridine 5'-diphosphate|udp
+seed:cpd00015	MNXM33	inferred	FAD|Flavin adenine dinucleotide|Flavin adenine dinucleotide oxidized|Flavinadeninedinucleotideoxidized|fad
+seed:cpd00016	MNXM161	inferred	Pyridoxal 5'-phosphate|Pyridoxal 5-phosphate|Pyridoxal phosphate|pydx5p
+seed:cpd00017	MNXM16	inferred	Acylcarnitine|AdoMet|S-Adenosyl-L-methionine|S-Adenosylmethionine|SAM|amet
+seed:cpd00018	MNXM14	inferred	5'-AMP|5'-Adenosine monophosphate|5'-Adenylic acid|AMP|Adenosine 5'-monophosphate|Adenosine 5'-phosphate|Adenylate|Adenylic acid|amp
+seed:cpd00019	MNXM19	inferred	S-Adenosyl-L-homocysteine|S-Adenosyl-homocysteine|S-Adenosylhomocysteine|ahcys|s-adenosyl-homocysteine
+seed:cpd00020	MNXM23	inferred	2-Oxopropanoate|2-Oxopropanoic acid|Pyroracemic acid|Pyruvate|Pyruvic acid|pyr
+seed:cpd00020	MNXM23	inferred	2-Oxopropanoate|2-Oxopropanoic acid|Pyroracemic acid|Pyruvate|Pyruvic acid|pyr
+seed:cpd00022	MNXM21	inferred	Acetyl coenzyme A|Acetyl-CoA|accoa
+seed:cpd00023	MNXM89557	inferred	2-Aminoglutaric acid|DL-Glutamate|DL-Glutaminic acid|GLU|Glutamate|Glutaminic acid|L-Glutamate|L-Glutamic acid|L-Glutaminic acid|glu-L
+seed:cpd00023	MNXM89557	inferred	2-Aminoglutaric acid|DL-Glutamate|DL-Glutaminic acid|GLU|Glutamate|Glutaminic acid|L-Glutamate|L-Glutamic acid|L-Glutaminic acid|glu-L
+seed:cpd00024	MNXM20	inferred	2-Ketoglutaric acid|2-Oxoglutarate|Oxoglutaric acid|akg|alpha-Ketoglutaric acid
+seed:cpd00025	MNXM22	inferred	H2O2|Hydrogen peroxide|Hydrogenperoxide|Oxydol|h2o2
+seed:cpd00026	MNXM52	inferred	UDP-D-glucose|UDP-alpha-D-glucose|UDP-glucose|UDPglucose|Uridine diphosphate glucose|udpg
+seed:cpd00027	MNXM7043	inferred	D-Glucose|Dextrose|Glucose|Grape sugar|alpha-D-Glucose|glc-D
+seed:cpd00027	MNXM7043	inferred	D-Glucose|Dextrose|Glucose|Grape sugar|alpha-D-Glucose|glc-D
+seed:cpd00028	MNXM78362	inferred	Haem|Heme|Heme B|Protoheme|Protoheme IX|pheme
+seed:cpd00029	MNXM26	inferred	ACET|Acetate|Acetic acid|Ethanoic acid|Glacial acetic acid|ac
+seed:cpd00030	MNXM2255	inferred	Manganese|Mn(II)|Mn(III)|Mn2+|mn2
+seed:cpd00030	MNXM2255	inferred	Manganese|Mn(II)|Mn(III)|Mn2+|mn2
+seed:cpd00031	MNXM30	inferred	GDP|Guanosine 5'-diphosphate|Guanosine diphosphate|gdp
+seed:cpd00032	MNXM46	inferred	2-Oxobutanedioic acid|Oxalacetic acid|Oxaloacetate|Oxaloacetic acid|Oxosuccinic acid|keto-Oxaloacetate|oaa
+seed:cpd00033	MNXM29	inferred	Aminoacetic acid|Gly|Glycine|gly
+seed:cpd00033	MNXM29	inferred	Aminoacetic acid|Gly|Glycine|gly
+seed:cpd00034	MNXM149	inferred	Zinc|Zn(II)|Zn2+|zn2
+seed:cpd00034	MNXM149	inferred	Zinc|Zn(II)|Zn2+|zn2
+seed:cpd00035	MNXM32	inferred	ALA|L-2-Aminopropionic acid|L-Alanine|L-alpha-Alanine|ala-L
+seed:cpd00035	MNXM32	inferred	ALA|L-2-Aminopropionic acid|L-Alanine|L-alpha-Alanine|ala-L
+seed:cpd00036	MNXM25	inferred	Butanedionic acid|Ethylenesuccinic acid|Succinate|Succinic acid|succ
+seed:cpd00037	MNXM47	inferred	UDP-N-acetyl-D-glucosamine|UDP-N-acetylglucosamine|uacgam
+seed:cpd00038	MNXM51	inferred	GTP|Guanosine 5'-triphosphate|gtp
+seed:cpd00039	MNXM78	inferred	2,6-Diaminohexanoic acid|L-Lysine|Lysine|Lysine acid|lys-L
+seed:cpd00039	MNXM78	inferred	2,6-Diaminohexanoic acid|L-Lysine|Lysine|Lysine acid|lys-L
+seed:cpd00040	MNXM69	inferred	Glyoxalate|Glyoxylate|Glyoxylic acid|glx
+seed:cpd00041	MNXM42	inferred	2-Aminosuccinic acid|Aspartate|Aspartic acid|L-Aspartate|L-Aspartic acid|asp-L
+seed:cpd00041	MNXM42	inferred	2-Aminosuccinic acid|Aspartate|Aspartic acid|L-Aspartate|L-Aspartic acid|asp-L
+seed:cpd00042	MNXM57	inferred	5-L-Glutamyl-L-cysteinylglycine|GSH|Glutathione|N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine|Reduced glutathione|Reducedglutathione|gamma-L-Glutamyl-L-cysteinyl-glycine|gthrd
+seed:cpd00043	MNXM89795	inferred	UDP-D-galactopyranose|UDP-D-galactose|UDP-galactose|UDPgalactose|udpgal
+seed:cpd00044	MNXM49	inferred	3'-Phospho-5'-adenylyl sulfate|3'-Phosphoadenosine 5'-phosphosulfate|3'-Phosphoadenylyl sulfate|3-Phosphoadenylylsulfate|3-phospho-adenylylsulfate|3-phosphoadenylyl sulfate|3-phosphoadenylylsulfate|PAPS|paps
+seed:cpd00045	MNXM45	inferred	3'-Phosphoadenylate|Adenosine 3',5'-bisphosphate|Adenosine 3-5-bisphosphate|Adenosine3-5-bisphosphate|PAP|Phosphoadenosine phosphate|pap
+seed:cpd00046	MNXM31	inferred	CMP|Cytidine-5'-monophosphate|Cytidylic acid|cmp
+seed:cpd00047	MNXM39	inferred	FORM|Formate|Formic acid|Methanoic acid|for
+seed:cpd00048	MNXM58	inferred	SLF|Sulfate|Sulfuric acid|so4
+seed:cpd00048	MNXM58	inferred	SLF|Sulfate|Sulfuric acid|so4
+seed:cpd00049	MNXM72	inferred	Carboxylate|Carboxylic acid|Fatty acid|Monocarboxylate|R-COOH|cbs_168|fatty-acid
+seed:cpd00050	MNXM119	inferred	FMN|Flavin mononucleotide|Riboflavin-5-phosphate|fmn
+seed:cpd00051	MNXM70	inferred	(S)-2-Amino-5-guanidinovaleric acid|2-Amino-5-guanidinovaleric acid|Amino acid(Arg-)|Arginine|L-Arginine|arg-L
+seed:cpd00051	MNXM70	inferred	(S)-2-Amino-5-guanidinovaleric acid|2-Amino-5-guanidinovaleric acid|Amino acid(Arg-)|Arginine|L-Arginine|arg-L
+seed:cpd00052	MNXM63	inferred	CTP|Cytidine 5'-triphosphate|Cytidine triphosphate|ctp
+seed:cpd00053	MNXM37	inferred	L-2-Aminoglutaramic acid|L-Glutamine|gln-L
+seed:cpd00053	MNXM37	inferred	L-2-Aminoglutaramic acid|L-Glutamine|gln-L
+seed:cpd00054	MNXM53	inferred	2-Amino-3-hydroxypropionic acid|3-Hydroxyalanine|DL-Serine|L-2-Amino-3-hydroxypropionic acid|L-3-Hydroxy-alanine|L-Serine|Serine|ser-L
+seed:cpd00054	MNXM53	inferred	2-Amino-3-hydroxypropionic acid|3-Hydroxyalanine|DL-Serine|L-2-Amino-3-hydroxypropionic acid|L-3-Hydroxy-alanine|L-Serine|Serine|ser-L
+seed:cpd00056	MNXM256	inferred	TPP|ThPP|Thiamin diphosphate|Thiamin pyrophosphate|Thiamine diphosphate|Thiaminediphosphate|thmpp
+seed:cpd00058	MNXM632	inferred	Copper|Copper1|Copper2|Cu(I)|Cu(II)|Cu+|Cu1+|Cu2+|cu2
+seed:cpd00058	MNXM632	inferred	Copper|Copper1|Copper2|Cu(I)|Cu(II)|Cu+|Cu1+|Cu2+|cu2
+seed:cpd00060	MNXM61	inferred	2-Amino-4-(methylthio)butyric acid|L-2-Amino-4methylthiobutyric acid|L-Methionine|Methionine|met-L
+seed:cpd00060	MNXM61	inferred	2-Amino-4-(methylthio)butyric acid|L-2-Amino-4methylthiobutyric acid|L-Methionine|Methionine|met-L
+seed:cpd00061	MNXM73	inferred	PEP|Phosphoenolpyruvate|Phosphoenolpyruvic acid|pep
+seed:cpd00062	MNXM121	inferred	UTP|Uridine 5'-triphosphate|Uridine triphosphate|utp
+seed:cpd00063	MNXM128	inferred	Ca(2+)|Ca2+|Calcium|ca2
+seed:cpd00063	MNXM128	inferred	Ca(2+)|Ca2+|Calcium|ca2
+seed:cpd00064	MNXM89689	inferred	(S)-2,5-Diaminopentanoate|(S)-2,5-Diaminopentanoic acid|(S)-2,5-Diaminovaleric acid|2,5-Diaminopentanoate|2,5-Diaminopentanoic acid|2,5-Diaminovaleric acid|L-Ornithine|Ornithine|orn
+seed:cpd00064	MNXM89689	inferred	(S)-2,5-Diaminopentanoate|(S)-2,5-Diaminopentanoic acid|(S)-2,5-Diaminovaleric acid|2,5-Diaminopentanoate|2,5-Diaminopentanoic acid|2,5-Diaminovaleric acid|L-Ornithine|Ornithine|orn
+seed:cpd00065	MNXM94	inferred	(S)-alpha-Amino-beta-(3-indolyl)-propionic acid|L-Tryptophan|Tryptophan|alpha-Amino-beta-(3-indolyl)-propionic acid|trp-L
+seed:cpd00065	MNXM94	inferred	(S)-alpha-Amino-beta-(3-indolyl)-propionic acid|L-Tryptophan|Tryptophan|alpha-Amino-beta-(3-indolyl)-propionic acid|trp-L
+seed:cpd00066	MNXM97	inferred	(S)-alpha-Amino-beta-phenylpropionic acid|L-Phenylalanine|phe-L
+seed:cpd00066	MNXM97	inferred	(S)-alpha-Amino-beta-phenylpropionic acid|L-Phenylalanine|phe-L
+seed:cpd00067	MNXM1	inferred	H+|h
+seed:cpd00067	MNXM1	inferred	H+|h
+seed:cpd00068	MNXM423	inferred	ITP|Inosine 5'-triphosphate|Inosine triphosphate|Inosine tripolyphosphate|itp
+seed:cpd00069	MNXM76	inferred	(S)-2-Amino-3-(p-hydroxyphenyl)propionic acid|(S)-3-(p-Hydroxyphenyl)alanine|2-Amino-3-(p-hydroxyphenyl)propionic acid|3-(p-Hydroxyphenyl)alanine|DL-Tyrosine|L-Tyrosine|Tyrosine|tyr-L
+seed:cpd00069	MNXM76	inferred	(S)-2-Amino-3-(p-hydroxyphenyl)propionic acid|(S)-3-(p-Hydroxyphenyl)alanine|2-Amino-3-(p-hydroxyphenyl)propionic acid|3-(p-Hydroxyphenyl)alanine|DL-Tyrosine|L-Tyrosine|Tyrosine|tyr-L
+seed:cpd00070	MNXM40	inferred	Malonyl coenzyme A|Malonyl-CoA|malcoa
+seed:cpd00071	MNXM75	inferred	AALD|Acetaldehyde|Ethanal|acald
+seed:cpd00072	MNXM89629	inferred	D-Fructose 6-phosphate|D-Fructose 6-phosphoric acid|D-Fructose6-phosphate|D-fructose-6-phosphate|Neuberg ester|beta-D-Fructose 6-phosphate|f6p
+seed:cpd00072	MNXM89629	inferred	D-Fructose 6-phosphate|D-Fructose 6-phosphoric acid|D-Fructose6-phosphate|D-fructose-6-phosphate|Neuberg ester|beta-D-Fructose 6-phosphate|f6p
+seed:cpd00073	MNXM117	inferred	Carbamide|Urea|urea
+seed:cpd00073	MNXM117	inferred	Carbamide|Urea|urea
+seed:cpd00074	MNXM89	inferred	S|Sulfur|Sulfur, precipitated|s
+seed:cpd00075	MNXM107	inferred	Nitrite|no2
+seed:cpd00078	MNXM92	inferred	Succinyl coenzyme A|Succinyl-CoA|succoa
+seed:cpd00079	MNXM160	inferred	D-Glucose 6-phosphate|D-Glucose6-phosphate|D-glucose-6-phosphate|Glucose 6-phosphate|Robison ester|alpha-D-Glucose 6-phosphate|alpha-D-glucose-6-phosphate|g6p|glucose-6-phosphate
+seed:cpd00079	MNXM160	inferred	D-Glucose 6-phosphate|D-Glucose6-phosphate|D-glucose-6-phosphate|Glucose 6-phosphate|Robison ester|alpha-D-Glucose 6-phosphate|alpha-D-glucose-6-phosphate|g6p|glucose-6-phosphate
+seed:cpd00080	MNXM66	inferred	D-Glycerol 1-phosphate|GLYC-3-P|Glycerol 1-phosphate|Glycerol 3-phosphate|Glycerol-3-phosphate|Glycerol3-phosphate|Glycerophosphoric acid|L-Glycerol 1-phosphate|glyc3p|sn-Glycerol 1-phosphate|sn-Glycerol 3-phosphate|sn-Gro-1-P
+seed:cpd00080	MNXM66	inferred	D-Glycerol 1-phosphate|GLYC-3-P|Glycerol 1-phosphate|Glycerol 3-phosphate|Glycerol-3-phosphate|Glycerol3-phosphate|Glycerophosphoric acid|L-Glycerol 1-phosphate|glyc3p|sn-Glycerol 1-phosphate|sn-Glycerol 3-phosphate|sn-Gro-1-P
+seed:cpd00081	MNXM105630	inferred	Bisulfite|H2SO3|HSO3-|Hydrogen sulfite|Sulfite|Sulfite (HSO3)-|so3
+seed:cpd00082	MNXM175	inferred	D-Fructose|D-arabino-Hexulose|Fructose|Fruit sugar|Levulose|arabino-Hexulose|beta-D-Fructose|beta-D-arabino-Hexulose|beta-Fruit sugar|beta-Levulose|fru
+seed:cpd00084	MNXM55	inferred	L-2-Amino-3-mercaptopropionic acid|L-Cysteine|cys-L
+seed:cpd00084	MNXM55	inferred	L-2-Amino-3-mercaptopropionic acid|L-Cysteine|cys-L
+seed:cpd00085	MNXM144	inferred	3-Aminopropanoate|3-Aminopropionic acid|ala-B|beta-Alanine
+seed:cpd00086	MNXM86	inferred	Propanoyl-CoA|Propionyl coenzyme A|Propionyl-CoA|ppcoa
+seed:cpd00087	MNXM79	inferred	(6S)-THFA|(6S)-Tetrahydrofolate|(6S)-Tetrahydrofolic acid|5,6,7,8-Tetrahydrofolate|5-6-7-8-Tetrahydrofolate|THF|Tetrahydrofolate|Tetrahydrofolic acid|thf
+seed:cpd00089	MNXM89588	inferred	Cori ester|D-Glucose 1-phosphate|D-Glucose alpha-1-phosphate|D-Glucose1-phosphate|D-glucose-1-phosphate|Glucose-1-phosphate|alpha-D-Glucose 1-phosphate|alpha-D-Glucose-1-phosphate|g1p
+seed:cpd00090	MNXM495	inferred	IDP|Inosine 5'-diphosphate|Inosine diphosphate|idp
+seed:cpd00091	MNXM80	inferred	5'Uridylic acid|UMP|Uridine 5'-monophosphate|Uridine monophosphate|Uridylic acid|ump
+seed:cpd00092	MNXM158	inferred	Uracil|ura
+seed:cpd00092	MNXM158	inferred	Uracil|ura
+seed:cpd00093	MNXM188	inferred	2-Aminobenzoate|Anthranilate|Anthranilic acid|Vitamin L1|anth|o-Aminobenzoic acid
+seed:cpd00094	MNXM159	inferred	2-Ketobutyric acid|2-Oxobutanoate|2-Oxobutanoic acid|2-Oxobutyrate|2-Oxobutyric acid|2obut|alpha-Ketobutyrate|alpha-Ketobutyric acid
+seed:cpd00095	MNXM77	inferred	Dihydroxyacetone phosphate|Dihydroxyacetonephosphate|Glycerone phosphate|Glycerone-phosphate|dhap|dihydroxy-acetone-phosphate|glycerone-phosphate
+seed:cpd00096	MNXM220	inferred	CDP|Cytidine 5'-diphosphate|Cytidine diphosphate|cdp
+seed:cpd00098	MNXM90	inferred	Bilineurine|Choline|chol
+seed:cpd00098	MNXM90	inferred	Bilineurine|Choline|chol
+seed:cpd00099	MNXM43	inferred	Chloride|Chloride ion|Cl-|HCl|Hydrochloric acid|Hydrochloride|Hydrogen chloride|cl
+seed:cpd00099	MNXM43	inferred	Chloride|Chloride ion|Cl-|HCl|Hydrochloric acid|Hydrochloride|Hydrogen chloride|cl
+seed:cpd00100	MNXM89612	inferred	1,2,3-Propanetriol|1,2,3-Trihydroxypropane|GLYC|Glycerin|Glycerol|glyc
+seed:cpd00100	MNXM89612	inferred	1,2,3-Propanetriol|1,2,3-Trihydroxypropane|GLYC|Glycerin|Glycerol|glyc
+seed:cpd00101	MNXM15900	inferred	D-Ribose 5-phosphate|D-ribose-5-phosphate|Ribose 5-phosphate|alpha-D-Ribose 5-phosphate|alpha-D-Ribose5-phosphate|r5p|ribose-5-phosphate
+seed:cpd00102	MNXM2378	inferred	(2R)-2-Hydroxy-3-(phosphonooxy)-propanal|D-Glyceraldehyde 3-phosphate|D-glyceraldehyde-3-phosphate|DL-Glyceraldehyde 3-phosphate|Glyceraldehyde 3-phosphate|Glyceraldehyde-3-phosphate|Glyceraldehyde3-phosphate|g3p
+seed:cpd00103	MNXM91	inferred	5-Phospho-alpha-D-ribose 1-diphosphate|5-Phospho-alpha-D-ribose1-diphosphate|5-Phosphoribosyl 1-pyrophosphate|5-Phosphoribosyl diphosphate|5-phosphoribosyl-1-pyrophosphate|PRPP|prpp
+seed:cpd00104	MNXM304	inferred	BIOT|Biotin|Coenzyme R|D-Biotin|Vitamin H|btn
+seed:cpd00106	MNXM93	inferred	Fumarate|Fumaric acid|fum|trans-Butenedioic acid
+seed:cpd00106	MNXM93	inferred	Fumarate|Fumaric acid|fum|trans-Butenedioic acid
+seed:cpd00107	MNXM140	inferred	(2S)-alpha-2-Amino-4-methylvaleric acid|(2S)-alpha-Leucine|2-Amino-4-methylvaleric acid|L-Leucine|leu-L
+seed:cpd00107	MNXM140	inferred	(2S)-alpha-2-Amino-4-methylvaleric acid|(2S)-alpha-Leucine|2-Amino-4-methylvaleric acid|L-Leucine|leu-L
+seed:cpd00108	MNXM89602	inferred	D-Galactose|GALC|Galactose|gal
+seed:cpd00108	MNXM89602	inferred	D-Galactose|GALC|Galactose|gal
+seed:cpd00109	MNXM114072	inferred	Cytochrome c3+|Ferricytochrome c|Ferricytochrome c-553|Ferricytochromec-553|ficytc
+seed:cpd00110	MNXM537	inferred	Cytochrome c2+|Ferrocytochrome c|Ferrocytochrome c-553|Ferrocytochromec-553|Reduced cytochrome c|focytc
+seed:cpd00111	MNXM151	inferred	GSSG|Glutathione disulfide|Oxidized glutathione|Oxidized glutathione glucose substituted|Oxiglutatione|gthox
+seed:cpd00113	MNXM83	inferred	Isopentenyl diphosphate|Isopentenyldiphosphate|delta3-Isopentenyl diphosphate|delta3-Methyl-3-butenyl diphosphate|ipdp
+seed:cpd00114	MNXM125	inferred	5'-IMP|5'-Inosinate|5'-Inosine monophosphate|5'-Inosinic acid|IMP|Inosine 5'-monophosphate|Inosine 5'-phosphate|Inosine monophosphate|Inosinic acid|imp
+seed:cpd00115	MNXM286	inferred	2'-Deoxyadenosine 5'-triphosphate|Deoxyadenosine 5'-triphosphate|Deoxyadenosine triphosphate|dATP|datp
+seed:cpd00117	MNXM156	inferred	D-2-Aminopropionic acid|D-Ala|D-Alanine|ala-D
+seed:cpd00117	MNXM156	inferred	D-2-Aminopropionic acid|D-Ala|D-Alanine|ala-D
+seed:cpd00118	MNXM118	inferred	1,4-Butanediamine|1,4-Diaminobutane|PUTR|Putrescine|Tetramethylenediamine|ptrc
+seed:cpd00119	MNXM134	inferred	(S)-alpha-Amino-1H-imidazole-4-propionic acid|L-Histidine|his-L
+seed:cpd00119	MNXM134	inferred	(S)-alpha-Amino-1H-imidazole-4-propionic acid|L-Histidine|his-L
+seed:cpd00120	MNXM233	inferred	Butanoyl-CoA|Butyryl-CoA|btcoa
+seed:cpd00121	MNXM127	inferred	(-)-Inositol|1D-myo-Inositol|1L-myo-Inositol|Bios I|Cyclohexitol|D-myo-Inositol|Dambose|Inositol|L-Inositol|L-myo-Inositol|Meat sugar|inost|meso-Inositol|myo-Inositol
+seed:cpd00122	MNXM143	inferred	2-Acetamido-2-deoxy-D-glucose|GlcNAc|N-Acetyl-D-glucosamine|N-Acetylchitosamine|acgam
+seed:cpd00123	MNXM238	inferred	2-Keto-3-methylbutyric acid|2-Ketovaline|2-Oxo-3-methylbutanoate|2-Oxoisopentanoate|2-Oxoisovalerate|2-keto-isovalerate|3-Methyl-2-oxobutanoate|3-Methyl-2-oxobutanoic acid|3-Methyl-2-oxobutyric acid|3MOB|3mob|alpha-Ketovaline
+seed:cpd00125	MNXM183	inferred	(6R)-5,10-Methylenetetrahydrofolate|5,10-Methylene-THF|5,10-Methylenetetrahydrofolate|5-10-Methylenetetrahydrofolate|mlthf
+seed:cpd00126	MNXM113	inferred	GMP|Guanosine 5'-monophosphate|Guanosine 5'-phosphate|Guanosine monophosphate|Guanylic acid|gmp
+seed:cpd00128	MNXM168	inferred	6-Aminopurine|Adenine|ade
+seed:cpd00129	MNXM114	inferred	2-Pyrrolidinecarboxylic acid|L-Proline|pro-L
+seed:cpd00129	MNXM114	inferred	2-Pyrrolidinecarboxylic acid|L-Proline|pro-L
+seed:cpd00130	MNXM98	inferred	(S)-Malate|2-Hydroxybutanedioic acid|L-2-Hydroxybutanedioic acid|L-Apple acid|L-Malate|L-Malic acid|MALA|Malate|Malic acid|mal-L
+seed:cpd00130	MNXM98	inferred	(S)-Malate|2-Hydroxybutanedioic acid|L-2-Hydroxybutanedioic acid|L-Apple acid|L-Malate|L-Malic acid|MALA|Malate|Malic acid|mal-L
+seed:cpd00132	MNXM147	inferred	2-Aminosuccinamic acid|L-Asparagine|asn-L
+seed:cpd00132	MNXM147	inferred	2-Aminosuccinamic acid|L-Asparagine|asn-L
+seed:cpd00133	MNXM216	inferred	NICO|Niacinamide|Nicotinamide|Nicotinic acid amide|Vitamin PP|ncam
+seed:cpd00134	MNXM88	inferred	Hexadecanoyl-CoA|Palmitoyl-CoA|Palmitoyl-CoA (n-C16:0CoA)|pmtcoa
+seed:cpd00135	MNXM123	inferred	2-Amino-4-mercaptobutyric acid|Homocysteine|L-2-Amino-4-mercaptobutyric acid|L-Homocysteine|hcys-L
+seed:cpd00136	MNXM164	inferred	4-Hydroxybenzoate|4-Hydroxybenzoic acid|4hbz|Hydroxybenzenecarboxylic acid|Hydroxybenzoic acid
+seed:cpd00137	MNXM131	inferred	2-Hydroxy-1,2,3-propanetricarboxylic acid|2-Hydroxytricarballylic acid|Citrate|Citric acid|cit
+seed:cpd00138	MNXM182	inferred	Carubinose|D-Mannose|MANN|Mannose|Seminose|alpha-D-Mannose|man
+seed:cpd00138	MNXM182	inferred	Carubinose|D-Mannose|MANN|Mannose|Seminose|alpha-D-Mannose|man
+seed:cpd00139	MNXM222	inferred	Glycolate|Glycolic acid|Hydroxyacetic acid|glyclt
+seed:cpd00141	MNXM356	inferred	Propanoate|Propanoic acid|Propionate|Propionate (n-C3:0)|Propionic acid|ppa
+seed:cpd00142	MNXM154	inferred	3-Oxobutanoic acid|Acetoacetate|Acetoacetic acid|acac|beta-Ketobutyric acid
+seed:cpd00142	MNXM154	inferred	3-Oxobutanoic acid|Acetoacetate|Acetoacetic acid|acac|beta-Ketobutyric acid
+seed:cpd00143	MNXM210	inferred	3-Phenyl-2-oxopropanoate|Phenylpyruvate|Phenylpyruvic acid|alpha-Ketohydrocinnamic acid|keto-Phenylpyruvate|phpyr
+seed:cpd00144	MNXM87	inferred	UDP-D-glucuronate|UDP-alpha-D-glucuronate|UDP-glucuronate|UDPglucuronate|udpglcur
+seed:cpd00145	MNXM392	inferred	3-Hydroxypyruvate|3-Hydroxypyruvic acid|Hydroxypyruvate|Hydroxypyruvic acid|hpyr
+seed:cpd00146	MNXM138	inferred	Carbamoyl phosphate|Carbamoylphosphate|carbamoyl-phosphate|cbp
+seed:cpd00147	MNXM150	inferred	5'-Deoxy-5'-(methylthio)adenosine|5'-Methylthioadenosine|5-Methylthioadenosine|5mta|MTA|Methylthioadenosine|S-Methyl-5'-thioadenosine|Thiomethyladenosine
+seed:cpd00147	MNXM150	inferred	5'-Deoxy-5'-(methylthio)adenosine|5'-Methylthioadenosine|5-Methylthioadenosine|5mta|MTA|Methylthioadenosine|S-Methyl-5'-thioadenosine|Thiomethyladenosine
+seed:cpd00149	MNXM90960	inferred	Co2+|Cobalt|cobalt2
+seed:cpd00149	MNXM90960	inferred	Co2+|Cobalt|cobalt2
+seed:cpd00150	MNXM254	inferred	CN-|Cyanide|Cyano|HCN|Hydrogen cyanide|Prussiate|cyan
+seed:cpd00152	MNXM328	inferred	(4-Aminobutyl) guanidine|Agmatine|agm
+seed:cpd00155	MNXM95017	inferred	Glycogen|glycogen
+seed:cpd00156	MNXM199	inferred	2-Amino-3-methylbutyric acid|L-Valine|val-L
+seed:cpd00156	MNXM199	inferred	2-Amino-3-methylbutyric acid|L-Valine|val-L
+seed:cpd00157	MNXM460	inferred	1,3-Dihydroxy-2-propanone|1,3-Dihydroxyacetone|1,3-Dihydroxypropan-2-one|Dihydroxyacetone|Glycerone|dha
+seed:cpd00159	MNXM179	inferred	(S)-Lactate|L-Lactate|L-Lactic acid|LCTT|lac-L
+seed:cpd00159	MNXM179	inferred	(S)-Lactate|L-Lactate|L-Lactic acid|LCTT|lac-L
+seed:cpd00161	MNXM142	inferred	2-Amino-3-hydroxybutyric acid|L-Threonine|thr-L|threonine
+seed:cpd00161	MNXM142	inferred	2-Amino-3-hydroxybutyric acid|L-Threonine|thr-L|threonine
+seed:cpd00162	MNXM218	inferred	2-Hydroxyethylamine|Aminoethanol|Ethanolamine|etha|ethanol-amine
+seed:cpd00166	MNXM91529	inferred	(5'-Deoxy-5'-adenosyl)cobamide coenzyme|(5,6-Dimethylbenzimidazolyl)cobamide coenzyme|5'-Deoxy-5'-adenosyl vitamin B12|5'-Deoxy-5'-adenosyl-5,6-dimethylbenzimidazolylcobamide|5'-Deoxy-5'-adenosylcobalamin|5,6-Dimethylbenzimidazolyl-5-deoxyadenosyl-cobamide|5,6-Dimethylbenzimidazolyl-Co-5'-deoxy-5'-adenosylcobamide|Adenosylcobalamin|Calomide|Cobalamin coenzyme|Cobamamide|Cobamide coenzyme|Coenzyme B12|DMBC coenzyme|Deoxyadenosylcobalamin|Dibencozide|Funacomide|Vitamin B12 coenzyme|adocbl|alpha-(5,6-Dimethylbenzimidazolyl)cobamide coenzyme
+seed:cpd00168	MNXM455	inferred	2,3-Dihydroxybenzoate|2,3-Dihydroxybenzoic acid|23dhb
+seed:cpd00169	MNXM126	inferred	3-Phospho-(R)-glycerate|3-Phospho-D-glycerate|3-Phospho-DL-glycerate|3-Phosphoglycerate|3pg|D-Glycerate 3-phosphate|DL-Glycerate 3-phosphate|Glycerate 3-phosphate
+seed:cpd00171	MNXM145	inferred	D-Ribulose 5-phosphate|D-Ribulose5-phosphate|ru5p-D
+seed:cpd00175	MNXM89724	inferred	UDP-N-acetyl-D-galactosamine|uacgala
+seed:cpd00176	MNXM440	inferred	2-Dehydro-3-deoxy-D-gluconate|2-keto-3-deoxygluconate|2ddglcn
+seed:cpd00176	MNXM440	inferred	2-Dehydro-3-deoxy-D-gluconate|2-keto-3-deoxygluconate|2ddglcn
+seed:cpd00177	MNXM374	inferred	2'-Deoxyadenosine 5'-diphosphate|dADP|dadp
+seed:cpd00178	MNXM398	inferred	2-Propanone|Acetone|Dimethyl ketone|acetone
+seed:cpd00179	MNXM165	inferred	1-alpha-D-Glucopyranosyl-4-alpha-D-glucopyranose|Malt sugar|Maltose|malt
+seed:cpd00179	MNXM165	inferred	1-alpha-D-Glucopyranosyl-4-alpha-D-glucopyranose|Malt sugar|Maltose|malt
+seed:cpd00180	MNXM291	inferred	Ethanedioic acid|Oxalate|Oxalic acid|oxa
+seed:cpd00182	MNXM212	inferred	Adenosine|adn
+seed:cpd00182	MNXM212	inferred	Adenosine|adn
+seed:cpd00184	MNXM420	inferred	Deoxythymidine|Thymidine|thymd
+seed:cpd00184	MNXM420	inferred	Deoxythymidine|Thymidine|thymd
+seed:cpd00186	MNXM331	inferred	D-2-Aminoglutaric acid|D-Glutamate|D-Glutamic acid|D-Glutaminic acid|glu-D
+seed:cpd00186	MNXM331	inferred	D-2-Aminoglutaric acid|D-Glutamate|D-Glutamic acid|D-Glutaminic acid|glu-D
+seed:cpd00190	MNXM105	inferred	beta-D-Glucose|glc-D-B
+seed:cpd00191	MNXM244	inferred	3-Oxopropanoate|Malonate semialdehyde|msa
+seed:cpd00193	MNXM287	inferred	5'-Adenylyl sulfate|APS|Adenosine 5'-phosphosulfate|Adenosine5-phosphosulfate|Adenylyl sulfate|adenylylsulfate|aps
+seed:cpd00198	MNXM186	inferred	D-Xylulose 5-phosphate|D-Xylulose5-phosphate|D-xylulose-5-phosphate|xu5p-D
+seed:cpd00199	MNXM172	inferred	4-Oxobutanoate|Succinate semialdehyde|Succinic semialdehyde|sucsal
+seed:cpd00200	MNXM404	inferred	2-Oxoisocaproate|2-ketoisocaproate|4-Methyl-2-oxopentanoate|4MOP|4mop
+seed:cpd00201	MNXM237	inferred	10-Formyl-THF|10-Formyltetrahydrofolate|10fthf
+seed:cpd00202	MNXM132	inferred	2-Isopentenyl diphosphate|DMAPP|Dimethylallyl diphosphate|Dimethylallyldiphosphate|Prenyl diphosphate|delta-Prenyl diphosphate|delta2-Isopentenyl diphosphate|dmpp
+seed:cpd00203	MNXM261	inferred	(R)-2-Hydroxy-3-(phosphonooxy)-1-monoanhydride with phosphoric propanoic acid|1,3-Bisphospho-D-glycerate|13dpg|3-Phospho-D-glyceroyl phosphate|3-Phospho-D-glyceroylphosphate|3-phospho-d-glyceroyl-phosphate
+seed:cpd00205	MNXM95	inferred	K+|Potassium|k
+seed:cpd00205	MNXM95	inferred	K+|Potassium|k
+seed:cpd00206	MNXM266	inferred	2'-Deoxycytidine 5'-monophosphate|Deoxycytidine monophosphate|Deoxycytidylate|Deoxycytidylic acid|dCMP|dcmp
+seed:cpd00207	MNXM259	inferred	2-Amino-6-hydroxypurine|GNN|Guanine|gua
+seed:cpd00209	MNXM207	inferred	Nitrate|Nitric acid|no3
+seed:cpd00209	MNXM207	inferred	Nitrate|Nitric acid|no3
+seed:cpd00210	MNXM282	inferred	2-Aminoethanesulfonic acid|Aminoethylsulfonic acid|Taurine|taur
+seed:cpd00211	MNXM458	inferred	Butanoate|Butanoic acid|Butyrate|Butyrate (n-C4:0)|Butyric acid|M_Butyrate|but
+seed:cpd00211	MNXM458	inferred	Butanoate|Butanoic acid|Butyrate|Butyrate (n-C4:0)|Butyric acid|M_Butyrate|but
+seed:cpd00213	MNXM1024	inferred	Enzyme N6-(lipoyl)lysine|Lipoamide|Lipoamide-E|Thioctic acid amide|lpam
+seed:cpd00214	MNXM108	inferred	Cetylic acid|Hexadecanoate|Hexadecanoate (n-C16:0)|Hexadecanoic acid|Hexadecylic acid|Palmitate|Palmitic acid|hdca
+seed:cpd00214	MNXM108	inferred	Cetylic acid|Hexadecanoate|Hexadecanoate (n-C16:0)|Hexadecanoic acid|Hexadecylic acid|Palmitate|Palmitic acid|hdca
+seed:cpd00216	MNXM337	inferred	Chorismate|Chorismic acid|chor
+seed:cpd00218	MNXM274	inferred	3-Pyridinecarboxylic acid|Niacin|Nicotinate|Nicotinic acid|nac
+seed:cpd00219	MNXM503	inferred	Prephenate|Prephenic acid|pphn|prephenate-phe|prephenate-tyr
+seed:cpd00220	MNXM270	inferred	7,8-Dimethyl-10-ribitylisoalloxazine|Lactoflavin|RIBF|Riboflavin|Vitamin B2|ribflv
+seed:cpd00221	MNXM285	inferred	(R)-Lactate|D-2-Hydroxypropanoic acid|D-2-Hydroxypropionic acid|D-Lactate|D-Lactic acid|lac-D
+seed:cpd00221	MNXM285	inferred	(R)-Lactate|D-2-Hydroxypropanoic acid|D-2-Hydroxypropionic acid|D-Lactate|D-Lactic acid|lac-D
+seed:cpd00222	MNXM341	inferred	D-Gluconate|D-Gluconic acid|D-gluco-Hexonic acid|GLCN|glcn
+seed:cpd00222	MNXM341	inferred	D-Gluconate|D-Gluconic acid|D-gluco-Hexonic acid|GLCN|glcn
+seed:cpd00223	MNXM189	inferred	(R)-Glycerate|D-Glycerate|Glycerate|Glyceric acid|glyc-R
+seed:cpd00226	MNXM213	inferred	HYXN|Hypoxanthine|Purine-6-ol|hxan
+seed:cpd00226	MNXM213	inferred	HYXN|Hypoxanthine|Purine-6-ol|hxan
+seed:cpd00227	MNXM353	inferred	2-Amino-4-hydroxybutyric acid|L-Homoserine|hom-L
+seed:cpd00229	MNXM349	inferred	Glycolaldehyde|Hydroxyacetaldehyde|gcald
+seed:cpd00231	MNXM90267	inferred	(6R)-6-(L-erythro-1,2-Dihydroxypropyl)-7,8-dihydro-6H-pterin|6,7-Dihydrobiopterin|Dihydrobiopterin|Quinoid-dihydrobiopterin|dhbpt
+seed:cpd00232	MNXM227	inferred	5-Acetamido-3,5-dideoxy-D-glycero-D-galacto-2-nonulosonic acid|N-Acetylneuraminate|N-Acetylneuraminic acid|Neu5Ac|acnam
+seed:cpd00232	MNXM227	inferred	5-Acetamido-3,5-dideoxy-D-glycero-D-galacto-2-nonulosonic acid|N-Acetylneuraminate|N-Acetylneuraminic acid|Neu5Ac|acnam
+seed:cpd00233	MNXM89658	inferred	2-Amino-6-(1,2-dihydroxypropyl)-5,6,7,8-tetrahydoro-4(1H)- pteridinone|5,6,7,8-Tetrahydrobiopterin|Tetrahydrobiopterin|thbpt
+seed:cpd00235	MNXM427	inferred	D-Mannose 6-phosphate|D-Mannose6-phosphate|D-mannose-6-phosphate|man6p
+seed:cpd00236	MNXM258	inferred	D-Erythrose 4-phosphate|D-Erythrose4-phosphate|e4p
+seed:cpd00238	MNXM271	inferred	D-Sedoheptulose 7-phosphate|D-altro-Heptulose 7-phosphate|Sedoheptulose 7-phosphate|Sedoheptulose7-phosphate|altro-Heptulose 7-phosphate|s7p|sedoheptulose-7-phosphate
+seed:cpd00239	MNXM89582	inferred	H2S|Hydrogen sulfide|Hydrogen-sulfide|Hydrogensulfide|Sulfide|Thioether|h2s
+seed:cpd00241	MNXM344	inferred	2'-Deoxyguanosine 5'-triphosphate|Deoxyguanosine 5'-triphosphate|Deoxyguanosine triphosphate|dGTP|dgtp
+seed:cpd00242	MNXM60	inferred	Acid carbonate|Bicarbonate|Carbonic acid|Dihydrogen carbonate|H2CO3|HCO(3-)|HCO3(-)|HCO3-|Hydrogencarbonate|carbonicacid|hco3
+seed:cpd00246	MNXM334	inferred	Inosine|ins
+seed:cpd00246	MNXM334	inferred	Inosine|ins
+seed:cpd00247	MNXM235	inferred	Orotate|Orotic acid|Uracil-6-carboxylic acid|orot
+seed:cpd00249	MNXM288	inferred	Uridine|uri
+seed:cpd00249	MNXM288	inferred	Uridine|uri
+seed:cpd00251	MNXM48596	inferred	ADP-ribose|ADPribose|adprib
+seed:cpd00254	MNXM653	inferred	Magnesium|Mg|Mg(2+)|Mg2+|mg2
+seed:cpd00254	MNXM653	inferred	Magnesium|Mg|Mg(2+)|Mg2+|mg2
+seed:cpd00260	MNXM89661	inferred	1-Hydroxypropane-1,2,3-tricarboxylic acid|1-Hydroxytricarballylic acid|Isocitrate|Isocitric acid|icit
+seed:cpd00264	MNXM124	inferred	N-(3-Aminopropyl)-1,4-butane-diamine|Spermidine|spmd
+seed:cpd00264	MNXM124	inferred	N-(3-Aminopropyl)-1,4-butane-diamine|Spermidine|spmd
+seed:cpd00268	MNXM323	inferred	H2S2O3|Hyposulfite|Thiosulfate|tsul
+seed:cpd00274	MNXM211	inferred	2-Amino-5-ureidovaleric acid|Citrulline|L-Citrulline|citr-L
+seed:cpd00277	MNXM647	inferred	2'-Deoxyguanosine|Deoxyguanosine|dgsn
+seed:cpd00277	MNXM647	inferred	2'-Deoxyguanosine|Deoxyguanosine|dgsn
+seed:cpd00279	MNXM133	inferred	3-Acetoacetyl-CoA|Acetoacetyl coenzyme A|Acetoacetyl-CoA|aacoa
+seed:cpd00281	MNXM192	inferred	4-Aminobutanoate|4-Aminobutanoic acid|4-Aminobutylate|4-Aminobutyrate|4-Aminobutyric acid|4abut|GABA|gamma-Aminobutyric acid
+seed:cpd00282	MNXM252	inferred	(S)-4,5-Dihydroorotate|(S)-Dihydroorotate|Dihydro-L-orotic acid|L-Dihydroorotate|L-Dihydroorotic acid|S-Dihydroorotate|dhor-S
+seed:cpd00283	MNXM100	inferred	Geranyl diphosphate|Geranyldiphosphate|grdp
+seed:cpd00284	MNXM325	inferred	6-Phospho-D-gluconate|6pgc
+seed:cpd00286	MNXM251	inferred	Undecaprenyl phosphate|Undecaprenylphosphate|udcpp
+seed:cpd00287	MNXM933	inferred	(S)-Methylmalonate semialdehyde|2-Methyl-3-oxopropanoate|2mop|3-Oxo-2-methylpropanoate|Methylmalonate semialdehyde|methylmalonate-semialdehyde
+seed:cpd00288	MNXM370	inferred	D-Glucosamine 6-phosphate|D-Glucosamine phosphate|D-Glucosamine6-phosphate|d-glucosamine-6-phosphate|gam6p
+seed:cpd00289	MNXM139	inferred	Geranylgeranyl diphosphate|Geranylgeranyl pyrophosphate|all-trans-Geranylgeranyl diphosphate|all-trans-Geranylgeranyl pyrophosphate|ggdp
+seed:cpd00290	MNXM417	inferred	D-Fructose 1,6-bisphosphate|D-Fructose1-6-bisphosphate|D-fructose-1,6-bisphosphate|beta-D-Fructose 1,6-bisphosphate|fdp
+seed:cpd00292	MNXM197	inferred	(S)-3-Hydroxy-3-methylglutaryl-CoA|3-Hydroxy-3-methylglutaryl-CoA|HMG-CoA|Hydroxymethylglutaroyl coenzyme A|Hydroxymethylglutaryl-CoA|hmgcoa
+seed:cpd00293	MNXM63556	inferred	N-Acetyl-D-glucosamine 6-phosphate|acgam6p
+seed:cpd00294	MNXM432	inferred	2'-Deoxyadenosine 5'-monophosphate|2'-Deoxyadenosine 5'-phosphate|Deoxyadenosine monophosphate|Deoxyadenylic acid|dAMP|damp
+seed:cpd00295	MNXM436	inferred	2'-Deoxyguanosine 5'-diphosphate|dGDP|dgdp
+seed:cpd00296	MNXM546	inferred	2'-Deoxyguanosine 5'-monophosphate|2'-Deoxyguanosine 5'-phosphate|Deoxyguanosine monophosphate|Deoxyguanylic acid|dGMP|dgmp
+seed:cpd00297	MNXM152	inferred	Deoxythymidine 5'-diphosphate|dTDP|dtdp
+seed:cpd00298	MNXM257	inferred	5'-Thymidylic acid|Deoxythymidine 5'-phosphate|Deoxythymidylic acid|Thymidine 5'-phosphate|Thymidine monophosphate|Thymidylate|Thymidylic acid|dTMP|dtmp
+seed:cpd00299	MNXM234	inferred	2'-Deoxyuridine 5'-phosphate|Deoxyuridine 5'-phosphate|Deoxyuridine monophosphate|Deoxyuridylic acid|dUMP|dump
+seed:cpd00309	MNXM174	inferred	XAN|Xanthine|xan
+seed:cpd00311	MNXM401	inferred	Guanosine|gsn
+seed:cpd00314	MNXM615	inferred	D-Mannitol|MNTL|Mannitol|mnl
+seed:cpd00314	MNXM615	inferred	D-Mannitol|MNTL|Mannitol|mnl
+seed:cpd00322	MNXM231	inferred	2-Amino-3-methylvaleric acid|L-Isoleucine|ile-L|l-iso-leucine
+seed:cpd00322	MNXM231	inferred	2-Amino-3-methylvaleric acid|L-Isoleucine|ile-L|l-iso-leucine
+seed:cpd00327	MNXM272	inferred	Stearoyl-CoA|Stearoyl-CoA (n-C18:0CoA)|Stearyl coenzyme A|Stearyl-CoA|Stearyl-CoA (n-C18:0CoA)|stcoa|strcoa
+seed:cpd00330	MNXM281	inferred	7,8-Dihydrofolate|7,8-Dihydrofolic acid|7,8-Dihydropteroylglutamate|7-8-Dihydrofolate|Dihydrofolate|Dihydrofolic acid|dhf
+seed:cpd00331	MNXM813	inferred	acon-C|cis-Aconitate|cis-Aconitic acid
+seed:cpd00338	MNXM405	inferred	5-Amino-4-oxopentanoate|5-Amino-4-oxovaleric acid|5-Aminolevulinate|5-amino-levulinate|5aop
+seed:cpd00341	MNXM1243	inferred	N-Carbamoylputrescine|cbmps
+seed:cpd00342	MNXM817	inferred	N-Acetylornithine|N-acetyl-L-ornithine|N2-Acetyl-L-ornithine|acorn
+seed:cpd00343	MNXM465	inferred	N-Carbamoyl-L-aspartate|cbasp
+seed:cpd00344	MNXM496	inferred	N-Formimidoyl-L-glutamate|N-Formimino-L-glutamate|forglu
+seed:cpd00345	MNXM318	inferred	5-Methyltetrahydrofolate|5mthf
+seed:cpd00346	MNXM361	inferred	Aspartate beta-semialdehyde|L-Aspartate 4-semialdehyde|L-Aspartate4-semialdehyde|L-Aspartic 4-semialdehyde|aspsa
+seed:cpd00347	MNXM511	inferred	5,10-Methenyltetrahydrofolate|5-10-Methenyltetrahydrofolate|methf
+seed:cpd00348	MNXM336	inferred	D-Galactose 1-phosphate|alpha-D-Galactopyranose 1-phosphate|alpha-D-Galactose 1-phosphate|alpha-D-Galactose1-phosphate|alpha-D-galactose-1-phosphate|gal1p
+seed:cpd00349	MNXM1294	inferred	D-Sedoheptulose 1,7-bisphosphate|D-altro-Heptulose 1,7-biphosphate|Sedoheptulose 1,7-bisphosphate|s17bp
+seed:cpd00350	MNXM34	inferred	2-trans,6-trans-Farnesyl diphosphate|Farnesyl diphosphate|Farnesyl pyrophosphate|Farnesyldiphosphate|frdp|trans, trans-farnesyl diphosphate|trans,trans-Farnesyl diphosphate
+seed:cpd00352	MNXM748	inferred	2,3,4,5-Tetrahydropyridine-2-carboxylate|delta1-Piperideine-6-L-carboxylate|thp2c
+seed:cpd00355	MNXM355	inferred	NMN|Nicotinamide D-ribonucleotide|Nicotinamide mononucleotide|Nicotinamide nucleotide|Nicotinamide ribonucleotide|beta-Nicotinamide D-ribonucleotide|beta-Nicotinamide mononucleotide|beta-Nicotinamide ribonucleotide|nmn
+seed:cpd00356	MNXM360	inferred	2'-Deoxycytidine 5'-triphosphate|Deoxycytidine 5'-triphosphate|Deoxycytidine triphosphate|dCTP|dctp
+seed:cpd00357	MNXM394	inferred	Deoxythymidine 5'-triphosphate|Deoxythymidine triphosphate|TTP|dTTP|dttp
+seed:cpd00358	MNXM452	inferred	2'-Deoxyuridine 5'-triphosphate|dUTP|dutp
+seed:cpd00359	MNXM377	inferred	2,3-Benzopyrrole|Indole|indol|indole
+seed:cpd00363	MNXM303	inferred	Dehydrated ethanol|ETOH|Ethanol|Ethyl alcohol|Methylcarbinol|etoh
+seed:cpd00364	MNXM769	inferred	2,5-Cyclohexadiene-1,4-dione|Chinone|Quinone|p-Benzoquinone
+seed:cpd00367	MNXM338	inferred	Cytidine
+seed:cpd00367	MNXM338	inferred	Cytidine
+seed:cpd00378	MNXM1231	inferred	Formamide|Methanamide|frmd
+seed:cpd00383	MNXM602	inferred	3,4,5-Trihydroxy-1-cyclohexenecarboxylic acid|Shikimate|Shikimic acid|skm
+seed:cpd00393	MNXM617	inferred	FOL|Folate|Folic acid|Pteroylglutamic acid|fol
+seed:cpd00395	MNXM713	inferred	2-Amino-3-sulfopropionic acid|3-Sulfoalanine|L-Cysteate|L-Cysteic acid|Lcyst
+seed:cpd00408	MNXM593	inferred	(R)-Pantoate|Pantoate|Pantoic acid|R-Pantoate|pant-R
+seed:cpd00412	MNXM492	inferred	2'-Deoxyuridine|2-Deoxyuridine|Deoxyuridine|duri
+seed:cpd00412	MNXM492	inferred	2'-Deoxyuridine|2-Deoxyuridine|Deoxyuridine|duri
+seed:cpd00415	MNXM4100	inferred	1,4-Benzenediol|1,4-Dihydroxybenzene|4-Hydroxyphenol|Benzene-1,4-diol|Benzosemiquinone|Hydroquinone|Quinol|hqn|p-Benzenediol|p-Benzosemiquinone
+seed:cpd00418	MNXM228	inferred	NO|Nitric oxide|Nitricoxide|Nitrogen monoxide|no
+seed:cpd00421	MNXM332	inferred	Inorganic triphosphate|Triphosphate|Tripolyphosphate|pppi
+seed:cpd00423	MNXM814	inferred	Cob(II)alamin|Vitamin B12r|cbl2
+seed:cpd00423	MNXM814	inferred	Cob(II)alamin|Vitamin B12r|cbl2
+seed:cpd00424	MNXM7231	inferred	Cystathionine|L-Cystathionine
+seed:cpd00426	MNXM345	inferred	2,5-Dihydroxyphenylacetate|2,5-Dihydroxyphenylacetic acid|Homogentisate|Homogentisic acid|hgentis
+seed:cpd00428	MNXM310	inferred	2-Ketopropionaldehyde|2-Oxopropanal|Methylglyoxal|Pyruvaldehyde|Pyruvic aldehyde|mthgxl
+seed:cpd00434	MNXM422	inferred	4-Aminobutanal|4-Aminobutyraldehyde|4abutn|Butyraldehyde, 4-amino-
+seed:cpd00438	MNXM625	inferred	2'-Deoxyadenosine|Deoxyadenosine|dad-2
+seed:cpd00438	MNXM625	inferred	2'-Deoxyadenosine|Deoxyadenosine|dad-2
+seed:cpd00443	MNXM421	inferred	4-Aminobenzoate|4-Aminobenzoic acid|4abz|ABEE|p-Aminobenzoate
+seed:cpd00446	MNXM243	inferred	3',5'-Cyclic AMP|Adenosine 3',5'-phosphate|Cyclic AMP|Cyclic adenylic acid|cAMP|camp
+seed:cpd00447	MNXM457	inferred	Betaine aldehyde|betald
+seed:cpd00448	MNXM435	inferred	D-Glyceraldehyde|glyald
+seed:cpd00449	MNXM1277	inferred	Dihydrolipoamide|Dihydrolipoamide-E|Dihydrothioctamide|Enzyme N6-(dihydrolipoyl)lysine|dhlam
+seed:cpd00461	MNXM312	inferred	2-Hydroxy-2,4-pentadienoate|2-Hydroxypenta-2,4-dienoate|2-Oxopent-4-enoate|Oxopent-4-enoate|cis-2-Hydroxypenta-2,4-dienoate|op4en
+seed:cpd00475	MNXM295	inferred	D-Ribose 1-phosphate|D-ribose-1-phosphate|Ribose 1-phosphate|alpha-D-Ribose 1-phosphate|alpha-D-Ribose1-phosphate|r1p
+seed:cpd00477	MNXM730	inferred	N-Acetyl-L-glutamate|N-Acetyl-L-glutamic acid|acglu
+seed:cpd00478	MNXM454	inferred	Pyridoxine 5'-phosphate|Pyridoxine 5-phosphate|Pyridoxine phosphate|pdx5p|pyridoxine-5'-phosphate
+seed:cpd00481	MNXM470	inferred	2-Methylpropanoyl-CoA|2-Methylpropionyl-CoA|Isobutyryl-CoA|ibcoa
+seed:cpd00482	MNXM275	inferred	2-Phospho-D-glycerate|2pg|D-Glycerate 2-phosphate|D-Glycerate2-phosphate
+seed:cpd00485	MNXM721	inferred	D-Mannose 1-phosphate|D-Mannose1-phosphate|alpha-D-Mannose 1-phosphate|man1p
+seed:cpd00492	MNXM2403	inferred	2-Acetamido-2-deoxy-D-mannose|N-Acetyl-D-mannosamine|acmana
+seed:cpd00493	MNXM366	inferred	Pyridoxamine 5'-phosphate|Pyridoxamine 5-phosphate|Pyridoxamine phosphate|pyam5p
+seed:cpd00497	MNXM298	inferred	(9-D-Ribosylxanthine)-5'-phosphate|XMP|Xanthosine 5'-phosphate|Xanthosine5-phosphate|Xanthylic acid|xanthosine-5-phosphate|xmp
+seed:cpd00498	MNXM114220	inferred	(S)-2-Aceto-2-hydroxybutanoate|(S)-2-Hydroxy-2-ethyl-3-oxobutanoate|2-Aceto-2-hydroxybutanoate|2ahbut|S-2-Aceto-2-hydroxybutanoate
+seed:cpd00504	MNXM644	inferred	26dap-LL|LL-2,6-Diaminoheptanedioate|LL-2,6-Diaminopimelate|LL-2,6-Diaminopimelic acid|LL-2-6-Diaminoheptanedioate
+seed:cpd00506	MNXM412	inferred	5-L-Glutamyl-L-cysteine|L-gamma-Glutamylcysteine|gamma-Glutamylcysteine|gamma-L-Glutamyl-L-cysteine|glucys
+seed:cpd00507	MNXM367	inferred	Glycerophosphocholine|g3pc|sn-glycero-3-Phosphocholine
+seed:cpd00508	MNXM114147	identity	(3S)-3-Methyl-2-oxopentanoate|(3S)-3-Methyl-2-oxopentanoic acid|(S)-3-Methyl-2-oxopentanoate|(S)-3-Methyl-2-oxopentanoic acid|2-Oxo-3-methylvalerate|2-keto-3-methyl-valerate|2-keto-3-methylvalerate|3-Methyl-2-oxopentanoate|3MOP|3mop|S-3-Methyl-2-oxopentanoate
+seed:cpd00509	MNXM789	inferred	2-Deoxy-D-ribose 1-phosphate|2-Deoxy-D-ribose1-phosphate|2-Deoxy-alpha-D-ribose 1-phosphate|2dr1p|deoxyribose-1-phosphate
+seed:cpd00510	MNXM2179	inferred	2-Deoxy-D-ribose 5-phosphate|2-Deoxy-D-ribose5-phosphate|2dr5p|deoxyribose-5-phosphate
+seed:cpd00516	MNXM529	inferred	26dap-M|meso-2,6-Diaminoheptanedioate|meso-2,6-Diaminopimelate|meso-2,6-Diaminopimelic acid|meso-2-6-Diaminoheptanedioate|meso-Diaminoheptanedioate
+seed:cpd00517	MNXM145527	inferred	1-Acyl-sn-glycerol 3-phosphate|1ag3p|Acyl-sn-glycerol 3-phosphate
+seed:cpd00525	MNXM955	inferred	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate|uamag
+seed:cpd00530	MNXM1860	inferred	XTP|xtp
+seed:cpd00531	MNXM1562	inferred	Hg2+|Mercuric ion|Mercury (charged +2)|Mercury(2+)|hg2
+seed:cpd00531	MNXM1562	inferred	Hg2+|Mercuric ion|Mercury (charged +2)|Mercury(2+)|hg2
+seed:cpd00532	MNXM330	inferred	O2-|O2.-|Superoxide|Superoxide anion|Superoxideanion|o2s
+seed:cpd00533	MNXM411	inferred	2'-Deoxycytidine 5'-diphosphate|2'-Deoxycytidine diphosphate|dCDP|dcdp
+seed:cpd00540	MNXM289	inferred	BET|Betaine|Glycine betaine|N,N,N-Trimethylglycine|Trimethylaminoacetate|Trimethylammonioacetate|glyb
+seed:cpd00557	MNXM82173	inferred	Siroheme|sheme
+seed:cpd00558	MNXM408	inferred	N,N'-Bis(3-aminopropyl)-1,4-butanediamine|SPRM|Spermine|sprm
+seed:cpd00581	MNXM700	inferred	Urocanate|Urocanic acid|urcan
+seed:cpd00626	MNXM1376	inferred	dTDP-D-glucose|dTDP-alpha-D-glucose|dTDP-glucose|dTDPglucose|dtdpglu
+seed:cpd00635	MNXM91519	inferred	Cbl|Cob(I)alamin|Vitamin B12s|cbl1
+seed:cpd00635	MNXM91519	inferred	Cbl|Cob(I)alamin|Vitamin B12s|cbl1
+seed:cpd00638	MNXM309	inferred	Deamido-NAD|Deamido-NAD+|Deamino-NAD+|dnad
+seed:cpd00641	MNXM1281	inferred	L-Histidinol|histd
+seed:cpd00644	MNXM364	inferred	(R)-Pantothenate|PAN|Pantothenate|Pantothenic acid|R-Pantothenate|pnto-R
+seed:cpd00644	MNXM364	inferred	(R)-Pantothenate|PAN|Pantothenate|Pantothenic acid|R-Pantothenate|pnto-R
+seed:cpd00646	MNXM526	inferred	4-Hydroxynitrobenzene|4-Nitrophenol|Niphen|PNP|p-Nitrophenol
+seed:cpd00650	MNXM214	inferred	2-Butenoyl-CoA|But-2-enoyl-CoA|Crotonoyl-CoA|Crotonyl-CoA|butd2coa|trans-But-2-enoyl-CoA
+seed:cpd00654	MNXM704	inferred	2'-Deoxycytidine|Deoxycytidine|dcyt
+seed:cpd00654	MNXM704	inferred	2'-Deoxycytidine|Deoxycytidine|dcyt
+seed:cpd00655	MNXM481	inferred	Dephospho-CoA|dpcoa
+seed:cpd00658	MNXM799	inferred	Isochorismate|Isochorismic acid|ichor
+seed:cpd00659	MNXM579	inferred	Dinitrogen monoxide|Dinitrogen oxide|Nitrous oxide|n2o
+seed:cpd00668	MNXM114079	inferred	(S)-2-Acetolactate|(S)-2-Hydroxy-2-methyl-3-oxobutanoate|2-Acetolactate|2-aceto-lactate|ALCTT|S-2-Acetolactate|alac-S
+seed:cpd00683	MNXM965	inferred	7,8-Dihydropteroate|Dihydropteroate|dhpt
+seed:cpd00689	MNXM554	inferred	Porphobilinogen|ppbng
+seed:cpd00699	MNXM478	inferred	3-Dehydroquinate|3-Dehydroquinic acid|3dhq|5-Dehydroquinate|5-Dehydroquinic acid
+seed:cpd00712	MNXM959	inferred	2-Dehydropantoate|2dhp
+seed:cpd00722	MNXM418	inferred	O-Acetyl-L-serine|O3-Acetyl-L-serine|acser
+seed:cpd00727	MNXM2074	inferred	2-Phosphoglycolate|2pglyc|Phosphoglycolic acid
+seed:cpd00730	MNXM2215	inferred	Aquacob(III)alamin|Aquacobalamin
+seed:cpd00731	MNXM669	inferred	Ala-Ala|D-Ala-D-Ala|D-Alanyl-D-alanine|alaala
+seed:cpd00738	MNXM379	inferred	3-Phosphoserine|3-phospho-serine|Dexfosfoserine|L-O-Phosphoserine|O-Phospho-L-serine|phosphoserine|pser-L
+seed:cpd00742	MNXM1122	inferred	Allophanate|Allophanic acid|Urea-1-carboxylate|allphn
+seed:cpd00755	MNXM547	inferred	Hydroxymethylbilane|hmbil
+seed:cpd00760	MNXM569	inferred	(S)-2-Methylbutanoyl-CoA|2-Methylbutanoyl-CoA|2-Methylbutyryl-CoA|2mbcoa|M_2_Methyl_butyryl_CoA
+seed:cpd00763	MNXM691	inferred	4-Maleylacetoacetate|4-Maleylacetoacetic acid|4mlacac
+seed:cpd00764	MNXM1140	inferred	7,8-Diaminononanoate|7-8-Diaminononanoate|dann
+seed:cpd00773	MNXM785	inferred	UDP-MurNAc|UDP-N-acetylmuramate|UDP-N-acetylmuramic acid|uamr
+seed:cpd00774	MNXM414	inferred	Uroporphyrinogen III|UroporphyrinogenIII|uppg3|uroporphyrinogen-iii
+seed:cpd00782	MNXM951	inferred	6-Carboxyhexanoyl-CoA|Pimeloyl-CoA|pmcoa
+seed:cpd00790	MNXM699	inferred	O-Acetyl-L-homoserine|achms
+seed:cpd00791	MNXM351	inferred	Protoporphyrinogen IX|ProtoporphyrinogenIX|pppg9
+seed:cpd00793	MNXM662	inferred	TMP|Thiamin monophosphate|Thiamin phosphate|Thiamine monophosphate|Thiamine phosphate|Thiaminmonophosphate|thiamine-phosphate|thmmp
+seed:cpd00793	MNXM662	inferred	TMP|Thiamin monophosphate|Thiamin phosphate|Thiamine monophosphate|Thiamine phosphate|Thiaminmonophosphate|thiamine-phosphate|thmmp
+seed:cpd00797	MNXM663	inferred	(R)-3-Hydroxybutanoate|(R)-3-Hydroxybutanoic acid|(R)-3-Hydroxybutyric acid|bhb
+seed:cpd00797	MNXM663	inferred	(R)-3-Hydroxybutanoate|(R)-3-Hydroxybutanoic acid|(R)-3-Hydroxybutyric acid|bhb
+seed:cpd00800	MNXM1141	inferred	8-Amino-7-oxononanoate|8-Amino-7-oxononanoic acid|8aonn
+seed:cpd00802	MNXM743	inferred	D-Fructose 1-phosphate|D-Fructose1-phosphate|D-fructose-1-phosphate|Fructose 1-phosphate|f1p|fructose-1-phosphate
+seed:cpd00807	MNXM1482	inferred	L-Histidinol phosphate|L-histidinol-phosphate|hisp
+seed:cpd00809	MNXM1334	inferred	O-Phospho-L-homoserine|phom
+seed:cpd00810	MNXM519	inferred	Orotidine 5'-phosphate|Orotidine5-phosphate|Orotidylic acid|orot5p|orotidine 5-phosphate|orotidine-5'-phosphate
+seed:cpd00817	MNXM1184	inferred	D-Arabinose 5-phosphate|D-Arabinose5-phosphate|ara5p
+seed:cpd00822	MNXM820	inferred	O-Succinyl-L-homoserine|suchms
+seed:cpd00830	MNXM894	inferred	4-Hydroxy-2-oxoglutarate|4-Hydroxy-2-oxoglutaric acid|4h2oglt|D-4-Hydroxy-2-oxoglutarate
+seed:cpd00834	MNXM373	inferred	4'-Phosphopantetheine|D-Pantetheine 4'-phosphate|Pantetheine 4'-phosphate|Pantetheine4-phosphate|Phosphopantetheine|pan4p
+seed:cpd00836	MNXM4815	inferred	6-S-Acetyldihydrolipoamide|S-Acetyldihydrolipoamide|S-Acetyldihydrolipoamide-E|[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine|adhlam
+seed:cpd00837	MNXM321	inferred	(5-Deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium salt|S-Adenosyl-(5')-3-methylthiopropylamine|S-Adenosylmethioninamine|ametam
+seed:cpd00840	MNXM1865	inferred	(3S)-3,6-Diaminohexanoate|36dahx|L-beta-Lysine
+seed:cpd00842	MNXM446	inferred	(S)-3-Hydroxybutanoyl-CoA|(S)-3-Hydroxybutyryl-CoA|3hbycoa
+seed:cpd00843	MNXM475	inferred	2-Hydroxy-3-oxopropanoate|2h3opp|Tartronate semialdehyde
+seed:cpd00851	MNXM87584	inferred	4hpro-LT|trans-4-Hydroxy-L-proline
+seed:cpd00858	MNXM245	inferred	L-Glutamate 5-semialdehyde|L-Glutamate gamma-semialdehyde|L-Glutamate5-semialdehyde|L-glutamate-gamma-semialdehyde|glu5sa
+seed:cpd00859	MNXM2276	inferred	Pseudouridine 5'-phosphate|psd5p
+seed:cpd00860	MNXM81337	inferred	S-Succinyldihydrolipoamide|S-Succinyldihydrolipoamide-E|[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine|sdhlam
+seed:cpd00861	MNXM932	inferred	UDP-N-acetyl-D-mannosamine|uacmam
+seed:cpd00863	MNXM508	inferred	beta-D-Glucose 6-phosphate|g6p-B
+seed:cpd00867	MNXM646	inferred	1D-myo-Inositol 1-monophosphate|1D-myo-Inositol 1-phosphate|D-myo-Inositol 1-phosphate|Inositol 1-phosphate|mi1p-D|myo-Inositol 1-phosphate
+seed:cpd00868	MNXM153	inferred	3-(4-Hydroxyphenyl)pyruvate|3--4-Hydroxyphenylpyruvate|34hpp|4-Hydroxyphenylpyruvate|p-Hydroxyphenylpyruvic acid|p-hydroxyphenylpyruvate
+seed:cpd00873	MNXM194	inferred	Nicotinate D-ribonucleotide|Nicotinate ribonucleotide|NicotinateD-ribonucleotide|Nicotinic acid ribonucleotide|beta-Nicotinate D-ribonucleotide|nicrnt
+seed:cpd00875	MNXM989	inferred	2-Dehydro-3-deoxy-D-octonate|3-Deoxy-D-manno-2-octulosonate|3-Deoxy-D-manno-octulosonate|3-Deoxyoctulosonic acid|KDO|kdo
+seed:cpd00876	MNXM396	inferred	(S)-3-Hydroxyisobutyrate|3-Hydroxy-2-methylpropanoate|3-Hydroxyisobutyrate|3-Hydroxyisobutyric acid|3-hydroxy-isobutyrate|3hmp
+seed:cpd00890	MNXM1953	inferred	UDP-N-acetylmuramoyl-L-alanine|uama
+seed:cpd00905	MNXM1189	inferred	Guanosine 3',5'-bis(diphosphate)|Guanosine 3'-diphosphate 5'-diphosphate|Guanosine 5'-diphosphate,3'-diphosphate|gdpdp
+seed:cpd00906	MNXM1067	inferred	all-trans-Hexaprenyl diphosphate|hexdp
+seed:cpd00908	MNXM368	inferred	Glycerophosphoethanolamine|g3pe|sn-glycero-3-Phosphoethanolamine
+seed:cpd00911	MNXM429	inferred	6-Phospho-D-glucono-1,5-lactone|6-phospho-D-glucono-1-5-lactone|6pgl|D-Glucono-1,5-lactone 6-phosphate
+seed:cpd00918	MNXM1062	inferred	2-Acetamido-5-oxopentanoate|N-Acetyl-L-glutamate 5-semialdehyde|acg5sa
+seed:cpd00922	MNXM911	inferred	1,2-Didehydropiperidine-2-carboxylate|1pipdn2c|delta1-Piperideine-2-carboxylate
+seed:cpd00924	MNXM1089	inferred	AppppA|P1,P4-Bis(5'-adenosyl) tetraphosphate|ap4a|p(1),p(4)-bis(5'-adenosyl)tetraphosphate
+seed:cpd00930	MNXM1456	inferred	3-(Imidazol-4-yl)-2-oxopropyl phosphate|Imidazole-acetol phosphate|imacp|imidazole acetol-phosphate|imidazole-acetol- phosphate|imidazole-acetol-phosphate
+seed:cpd00931	MNXM1532	inferred	5-Amino-6-(5'-phosphoribosylamino)uracil|5-Amino-6-(5-phosphoribosylamino)uracil|5-Amino-6-(ribosylamino)-2,4-(1H,3H)-pyrimidinedione 5'-phosphate|5-Amino-6--5-phosphoribosylaminouracil|5apru
+seed:cpd00932	MNXM1365	inferred	3psme|5-O-(1-Carboxyvinyl)-3-phosphoshikimate|5-O--1-Carboxyvinyl-3-phosphoshikimate|O5-(1-Carboxyvinyl)-3-phosphoshikimate
+seed:cpd00939	MNXM874	inferred	4-Amino-2-methyl-5-pyrimidinemethanol|4-Amino-5-hydroxymethyl-2-methylpyrimidine|4ahmmp|Toxopyrimidine
+seed:cpd00954	MNXM937	inferred	2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine|2-Amino-4-hydroxy-6-hydroxymethyl-7-8-dihydropteridine|6-hydroxymethyl dihydropterin|6hmhpt
+seed:cpd00956	MNXM1455	inferred	1-(2-Carboxyphenylamino)-1'-deoxy-D-ribulose 5'-phosphate|1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate|1-(2-carboxyphenylamino)-1-deoxyribulose 5-phosphate|1--2-Carboxyphenylamino-1-deoxy-D-ribulose5-phosphate|2cpr5p
+seed:cpd00957	MNXM648	inferred	2,5-Diamino-6-(5'-phosphoribosylamino)-4-pyrimidineone|2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate|2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)-pyrimidine|2,5-diamino-6-hydroxy-4-(5-phosphoribosylamino)pyrimidine|2-5-Diamino-6-hydroxy-4--5-phosphoribosylamino-pyrimidine|25drapp
+seed:cpd00971	MNXM27	inferred	Na+|Sodium|na1
+seed:cpd00971	MNXM27	inferred	Na+|Sodium|na1
+seed:cpd00977	MNXM1325	inferred	2'-Deoxyinosine 5'-triphosphate|2'-Deoxyinosine-5'-triphosphate|dITP|ditp
+seed:cpd00978	MNXM572	inferred	2'-Deoxyuridine 5'-diphosphate|dUDP|dudp
+seed:cpd00982	MNXM38	inferred	FADH2|Flavin adenine dinucleotide reduced|Flavinadeninedinucleotidereduced|fadh2
+seed:cpd01012	MNXM4505	inferred	Cadmium|Cd2+|cd2
+seed:cpd01012	MNXM4505	inferred	Cadmium|Cd2+|cd2
+seed:cpd01017	MNXM683	inferred	Cys-Gly|L-Cysteinylglycine|cgly
+seed:cpd01080	MNXM236	inferred	Octadecanoic acid|Stearate|Stearic acid|ocdca|octadecanoate|octadecanoate (n-C18:0)
+seed:cpd01080	MNXM236	inferred	Octadecanoic acid|Stearate|Stearic acid|ocdca|octadecanoate|octadecanoate (n-C18:0)
+seed:cpd01092	MNXM612	inferred	(S)(+)-Allantoin|(S)-Allantoin|5-Ureidohydantoin|Allantoin|Glyoxyldiureide|alltn
+seed:cpd01101	MNXM742	inferred	Aminoformic acid|Carbamate|Carbamic acid
+seed:cpd01155	MNXM943	inferred	1,5-Diaminopentane|1,5-Pentanediamine|15dap|Cadaverine|Pentamethylenediamine
+seed:cpd01157	MNXM1680	inferred	Chitobiose|chitob
+seed:cpd01211	MNXM762	inferred	Thiocyanate|Thiocyanic acid|tcynt
+seed:cpd01217	MNXM687	inferred	Xanthosine|xtsn
+seed:cpd01260	MNXM363	inferred	Dodecanoyl-CoA|Dodecanoyl-CoA (n-C12:0CoA)|Lauroyl coenzyme A|Lauroyl-CoA|ddcoa
+seed:cpd01262	MNXM468	inferred	Amylotriose|Maltotriose|malttr
+seed:cpd01262	MNXM468	inferred	Amylotriose|Maltotriose|malttr
+seed:cpd01298	MNXM1106	inferred	1-Amino-2-propanone|Aminoacetone|aact
+seed:cpd01311	MNXM1020	inferred	Desthiobiotin|Dethiobiotin|dtbt
+seed:cpd01324	MNXM4010	inferred	L-Histidinal|cbs_412
+seed:cpd01326	MNXM89922	inferred	L-Lysyl-tRNA|L-Lysyl-tRNA(Lys)|lystrna
+seed:cpd01329	MNXM1317	inferred	Maltohexaose|malthx
+seed:cpd01329	MNXM1317	inferred	Maltohexaose|malthx
+seed:cpd01335	MNXM342	inferred	Octanoyl-CoA|Octanoyl-CoA (n-C8:0CoA)|occoa
+seed:cpd01401	MNXM1155	inferred	2-Methyl-3-phytyl-1,4-naphthoquinone|Phylloquinone|Phytonadione|Vitamin K1
+seed:cpd01441	MNXM3135	inferred	Acetyl-maltose|acmalt
+seed:cpd01476	MNXM346	inferred	Porphyrinogen IX|Protoporphyrin|Protoporphyrin IX|ppp9
+seed:cpd01501	MNXM90279	inferred	(2R,3S)-2-Hydroxybutane-1,2,3-tricarboxylate|2-Hydroxybutane-1,2,3-tricarboxylate|2-Methylcitrate|2-methyl-citrate|2mcit
+seed:cpd01507	MNXM1264	inferred	3-Oxoadipyl-CoA|oxadpcoa
+seed:cpd01567	MNXM114184	inferred	(R)(-)-Allantoin|(R)-Allantoin
+seed:cpd01620	MNXM672	inferred	Dihydrosirohydrochlorin|Precorrin 2|pre2
+seed:cpd01646	MNXM985	inferred	(2S)-2-Isopropylmalate|2-Hydroxy-2-isopropylbutanedioate|2-Isopropylmalate|2-Isopropylmalic acid|3-Carboxy-3-hydroxy-4-methylpentanoate|3-Carboxy-3-hydroxy-isocaproate|3-Carboxy-3-hydroxyisocaproate|3-Hydroxy-4-methyl-3-carboxypentanoate|3c3hmp
+seed:cpd01651	MNXM1014	inferred	3-Cyano-L-alanine|L-3-Cyanoalanine|L-beta-Cyanoalanine
+seed:cpd01695	MNXM224	inferred	Myristoyl-CoA|Tetradecanoyl-CoA|Tetradecanoyl-CoA (n-C14:0CoA)|tdcoa
+seed:cpd01710	MNXM1706	inferred	2-Isopropylmaleate|2ippm|beta-Isopropylmaleate
+seed:cpd01716	MNXM611	inferred	3-Dehydroshikimate|3-dehydro-shikimate|3dhsk
+seed:cpd01741	MNXM402	inferred	Dodecanoate|Dodecanoate (n-C12:0)|Dodecanoic acid|Dodecylcarboxylate|Lauric acid|ddca|dodecanoate (C12:0)
+seed:cpd01772	MNXM1212	inferred	2-Succinylbenzoate|Succinylbenzoate|o-Succinylbenzoate|sucbz
+seed:cpd01775	MNXM1351	inferred	1-(5-Phosphoribosyl)-ATP|1-(5-phospho-D-ribosyl)-ATP|N1-(5-Phospho-D-ribosyl)-ATP|Phosphoribosyl-ATP|prbatp
+seed:cpd01777	MNXM1515	inferred	1-(5-Phosphoribosyl)-AMP|1-(5-phospho-D-ribosyl)-AMP|N1-(5-Phospho-D-ribosyl)-AMP|Phosphoribosyl-AMP|prbamp
+seed:cpd01831	MNXM1330	inferred	4-Imidazoleacetate|Imidazole-4-acetate|Imidazoleacetic acid|imzac
+seed:cpd01882	MNXM471	inferred	3-Methylbutanoyl-CoA|Isovaleryl-CoA|ivcoa
+seed:cpd01914	MNXM2246	inferred	L-Methionine S-oxide|metox
+seed:cpd01914	MNXM2246	inferred	L-Methionine S-oxide|metox
+seed:cpd01919	MNXM2394	inferred	D-maltose-6-phosphate|Maltose 6'-phosphate|Maltose 6-phosphate|malt6p|maltose-6-phosphate
+seed:cpd01960	MNXM145629	inferred	2-Oxohept-3-ene-1,7-dioate|2-Oxohept-3-enedioate
+seed:cpd01966	MNXM389	inferred	3-Methylbut-2-enoyl-CoA|3-Methylcrotonoyl-CoA|3-Methylcrotonyl-CoA|3mb2coa|Dimethylacryloyl-CoA
+seed:cpd01974	MNXM2489	inferred	4-Hydroxy-L-glutamate|4-Hydroxy-L-glutamic acid|4hglu|L-erythro-4-Hydroxyglutamate
+seed:cpd01977	MNXM1177	inferred	4-Phospho-L-aspartate|4pasp|L-4-Aspartyl phosphate
+seed:cpd01981	MNXM1592	inferred	5-Methylthio-D-ribose|5mtr|S-Methyl-5-thio-D-ribose|methylthioribose
+seed:cpd01982	MNXM90003	inferred	5-Phospho-D-ribosylamine|5-Phospho-beta-D-ribosylamine|5-Phosphoribosyl-1-amine|5-Phosphoribosylamine|pram
+seed:cpd01997	MNXM1531	inferred	5,6-Dimethylbenzimidazole|Dimethylbenzimidazole|dmbzid
+seed:cpd02016	MNXM1115	inferred	1-(beta-D-Ribofuranosyl)nicotinamide|N-Ribosylnicotinamide|rnam
+seed:cpd02021	MNXM1132	inferred	2-Succinylbenzoyl-CoA|Succinylbenzoyl-CoA|o-Succinylbenzoyl-CoA|sbzcoa
+seed:cpd02030	MNXM1265	inferred	3-phosphoshikimate|Shikimate 3-phosphate|Shikimate 5-phosphate|Shikimate5-phosphate|shikimate-3-phosphate|skm5p
+seed:cpd02039	MNXM18844	inferred	(R)-1-Amino-2-propanol|(R)-1-Aminopropan-2-ol|1-Aminopropan-2-ol|appl
+seed:cpd02060	MNXM642	inferred	(2E)-Dodec-2-enoyl-CoA|(2E)-Dodecenoyl-CoA|2-trans-Dodecenoyl-CoA|trans-Dodec-2-enoyl-CoA|trans-dd2coa
+seed:cpd02068	MNXM504	inferred	3-Methylglutaconyl-CoA|3mgcoa|trans-3-Methylglutaconyl-CoA
+seed:cpd02069	MNXM541	inferred	3-Phosphohydroxypyruvate|3-Phosphohydroxypyruvic acid|3-Phosphonooxypyruvate|3-Phosphonooxypyruvic acid|3-phospho-hydroxypyruvate|3php
+seed:cpd02074	MNXM916	inferred	2-Oxo-6-aminocaproate|6-Amino-2-oxohexanoate|6a2ohxnt
+seed:cpd02083	MNXM410	inferred	Coproporphyrinogen III|CoproporphyrinogenIII|cpppg3
+seed:cpd02090	MNXM598	inferred	Glycerophosphoglycerol|g3pg
+seed:cpd02097	MNXM1280	inferred	L-Glutamate 5-phosphate|L-Glutamyl 5-phosphate|L-gamma-glutamyl 5-phosphate|L-glutamate-5-phosphate|glu5p
+seed:cpd02103	MNXM1756	inferred	(2S)-2-(3-Carboxypropanoylamino)-5- (diaminomethylideneamino)pentanoic acid|N2-Succinyl-L-arginine|sucarg
+seed:cpd02120	MNXM807	inferred	2,3-Dihydrodipicolinate|2-3-Dihydrodipicolinate|23dhdp|Dihydrodipicolinate|Dihydrodipicolinic acid|L-2,3-Dihydrodipicolinate
+seed:cpd02124	MNXM524	inferred	2-Methyl-3-acetoacetyl-CoA|2-Methylacetoacetyl-CoA|2-methyl-acetoacetyl-CoA|2maacoa|M_2_Methyl_3_acetoacetyl_CoA
+seed:cpd02125	MNXM609	inferred	(E)-2-Methylcrotonoyl-CoA|2-Methylbut-2-enoyl-CoA|2-Methylcrotanoyl-CoA|2mb2coa|Methylcrotonoyl-CoA|Methylcrotonyl-CoA|Tigloyl-CoA|Tiglyl-CoA|trans-2-Methylbut-2-enoyl-CoA
+seed:cpd02135	MNXM3867	inferred	4-Nitrophenyl phosphate
+seed:cpd02140	MNXM388	inferred	1-(5'-Phosphoribosyl)-5-aminoimidazole|1-(5-Phospho-D-ribosyl)-5-aminoimidazole|1-(5-phosphoribosyl)-5-aminoimidazole|5'-Phosphoribosyl-5-aminoimidazole|5-Amino-1-(5-phospho-D-ribosyl)imidazole|5-amino-1--5-phospho-D-ribosylimidazole|AIR|Aminoimidazole ribotide|air
+seed:cpd02147	MNXM1407	inferred	4-Phospho-D-erythronate|4-Phosphoerythronate|4per
+seed:cpd02147	MNXM1407	inferred	4-Phospho-D-erythronate|4-Phosphoerythronate|4per
+seed:cpd02152	MNXM550	inferred	2-(Nomega-L-Arginino)succinate|L-Argininosuccinate|L-Argininosuccinic acid|L-Arginosuccinic acid|N(omega)-(L-Arginino)succinate|N-(L-Arginino)succinate|N-omega-(L-Arginino)succinate|argsuc|l-arginino-succinate
+seed:cpd02160	MNXM1152	inferred	(2S)-5-Amino-2-(3-carboxypropanoylamino)pentanoic acid|N2-Succinyl-L-ornithine|sucorn
+seed:cpd02182	MNXM1253	inferred	(R)-S-Lactoylglutathione|lgt-S
+seed:cpd02187	MNXM947	inferred	2-Methylprop-2-enoyl-CoA|2mp2coa|Methacrylyl-CoA|Methylacrylyl-CoA
+seed:cpd02197	MNXM1392	inferred	5-Formyltetrahydrofolate|5fthf|Folinic acid|L(-)-5-Formyl-5,6,7,8-tetrahydrofolic acid
+seed:cpd02201	MNXM415	inferred	(R)-4'-Phosphopantothenate|4-phosphopantothenate|4ppan|D-4'-Phosphopantothenate|D-4-Phosphopantothenate
+seed:cpd02210	MNXM866	inferred	(1S,2R)-1-C-(Indol-3-yl)glycerol 3-phosphate|(3-Indolyl)-glycerol phosphate|1-(indol-3-yl)glycerol 3-phosphate|1-C-(Indol-3-yl)glycerol 3-phosphate|3ig3p|C'-(3-Indolyl)-glycerol 3-phosphate|C--3-Indolyl-glycerol3-phosphate|C1-(3-Indolyl)-glycerol 3-phosphate|Indole-3-glycerol phosphate|Indoleglycerol phosphate|indole-3-glycerol-phosphate
+seed:cpd02211	MNXM114087	inferred	(S)-2-Amino-3-oxobutanoic acid|2aobut|L-2-Amino-3-oxobutanoate|L-2-Amino-3-oxobutanoic acid|L-2-Amino-acetoacetate
+seed:cpd02227	MNXM1777	inferred	Ribose-5-S-homocysteine|S-(5-Deoxy-D-ribos-5-yl)-L-homocysteine|S-D-Ribosyl-L-homocysteine|S-Ribosyl-L-homocysteine|S-Ribosylhomocysteine|rhcys
+seed:cpd02229	MNXM326	inferred	Bactoprenyl diphosphate|Undecaprenyl diphosphate|Undecaprenyldiphosphate|di-trans,poly-cis-Undecaprenyl diphosphate|udcpdp
+seed:cpd02230	MNXM2063	inferred	1D-myo-Inositol 4-monophosphate|1D-myo-Inositol 4-phosphate|D-myo-Inositol 4-phosphate|Inositol 4-phosphate|mi4p-D|myo-Inositol 4-phosphate
+seed:cpd02234	MNXM1058	inferred	(3R)-3-Hydroxybutanoyl-CoA|(R)-3-Hydroxybutanoyl-CoA
+seed:cpd02258	MNXM1176	inferred	4-Hydroxy-2-oxopentanoate|4-Hydroxy-2-oxovalerate|4h2opntn
+seed:cpd02295	MNXM552	inferred	1,4-Dihydroxy-2-naphthoate|1-4-Dihydroxy-2-naphthoate|dhna
+seed:cpd02311	MNXM90394	inferred	4,5-Dihydro-4-oxo-5-imidazolepropanoate|4-Imidazolone-5-propanoate|4-Imidazolone-5-propionic acid|4izp
+seed:cpd02333	MNXM555	inferred	2,3-Pyridinedicarboxylic acid|Pyridine-2,3-dicarboxylate|Quinolinate|Quinolinic acid|quln
+seed:cpd02345	MNXM1453	inferred	(S)-4-Amino-5-oxopentanoate|L-Glutamate 1-semialdehyde|L-Glutamate1-semialdehyde|glu1sa
+seed:cpd02375	MNXM565	inferred	Adenylosuccinate|Adenylosuccinic acid|N6-(1,2-Dicarboxyethyl)-AMP|N6--1-2-Dicarboxyethyl-AMP|adenylo-succinate|dcamp
+seed:cpd02394	MNXM463	inferred	5'-Phosphoribosylglycinamide|GAR|Glycinamide ribonucleotide|N1-(5-Phospho-D-ribosyl)glycinamide|N1--5-Phospho-D-ribosylglycinamide|gar
+seed:cpd02414	MNXM1873	inferred	L-2-Amino-6-oxoheptanedioate|L-2-Amino-6-oxopimelate
+seed:cpd02431	MNXM1617	inferred	(S)-1-Pyrroline-5-carboxylate|1-Pyrroline-5-carboxylate|1pyr5c|L-1-Pyrroline-5-carboxylate
+seed:cpd02465	MNXM480	inferred	(S)-2,3,4,5-Tetrahydropyridine-2,6-dicarboxylate|2,3,4,5-Tetrahydrodipicolinate|2-3-4-5-Tetrahydrodipicolinate|L-2,3,4,5-Tetrahydrodipicolinate|delta1-Piperidine-2,6-dicarboxylate|tetrahydrodipicolinate|thdp
+seed:cpd02484	MNXM540	inferred	1D-myo-Inositol 3-monophosphate|1D-myo-Inositol 3-phosphate|1L-myo-Inositol 1-phosphate|D-myo-Inositol 3-monophosphate|D-myo-Inositol 3-phosphate|Inositol 3-monophosphate|Inositol 3-phosphate|L-myo-Inositol 1-phosphate|mi3p-D|myo-Inositol 3-monophosphate|myo-Inositol 3-phosphate
+seed:cpd02498	MNXM114097	inferred	(2R)-2,3-Dihydroxy-3-methylbutanoate|(R)-2,3-Dihydroxy-3-methylbutanoate|(R)-2,3-Dihydroxy-isovalerate|(R)-2,3-Dihydroxy-isovaleric acid|2,3-Dihydroxy-3-methylbutanoate|2,3-Dihydroxy-isovalerate|2,3-Dihydroxy-isovaleric acid|23dhmb|R-2-3-Dihydroxy-3-methylbutanoate
+seed:cpd02507	MNXM3505	inferred	5-Carboxy-2-oxohept-3-enedioate|5-Oxopent-3-ene-1,2,5-tricarboxylate
+seed:cpd02522	MNXM89905	inferred	2-Aminoadipate 6-semialdehyde|L-2-Aminoadipate 6-semialdehyde|L2aadp6sa
+seed:cpd02535	MNXM1202	inferred	(2R,3R)-2,3-Dihydroxy-3-methylpentanoate|(R)-2,3-Dihydroxy-3-methylpentanoate|(R)-2,3-Dihydroxy-3-methylvalerate|2,3-Dihydroxy-3-methylpentanoate|2,3-Dihydroxy-3-methylvalerate|23dhmp|R-2-3-Dihydroxy-3-methylpentanoate
+seed:cpd02546	MNXM535	inferred	CMP-3-deoxy-D-manno-octulosonate|CMP-KDO|ckdo
+seed:cpd02547	MNXM1697	inferred	(R)-1-Aminopropan-2-yl phosphate|D-1-Aminopropan-2-ol O-phosphate|applp
+seed:cpd02552	MNXM1384	inferred	N-Acetyl-L-glutamate 5-phosphate|N-Acetyl-L-glutamyl 5-phosphate|N-acetyl-5-glutamyl phosphate|N-acetyl-glutamyl-phosphate|acg5p|n-acetylglutamyl-phosphate
+seed:cpd02555	MNXM2563	inferred	Tetrahydropteroyltri-L-glutamate|hpglu
+seed:cpd02557	MNXM811	inferred	Farnesylfarnesylgeraniol|all-trans-Octaprenyl diphosphate|all-trans-Octaprenyldiphosphate|octdp
+seed:cpd02566	MNXM114261	inferred	2,3-Dihydro-2,3-dihydroxybenzoate|2,3-Dihydroxy-2,3-dihydrobenzoate|23ddhb
+seed:cpd02569	MNXM1638	inferred	2-Oxo-3-hydroxyisovalerate|3-Hydroxy-3-methyl-2-oxobutanoate|3-Hydroxy-3-methyl-2-oxobutanoic acid|33hmeoxobut
+seed:cpd02572	MNXM1163	inferred	5-Carboxymethyl-2-hydroxymuconate|5cm2hm
+seed:cpd02590	MNXM1722	inferred	all-trans-Heptaprenyl diphosphate|hepdp
+seed:cpd02591	MNXM2210	inferred	all-trans-Pentaprenyl diphosphate|pendp
+seed:cpd02597	MNXM1792	inferred	(Z)-But-2-ene-1,2,3-tricarboxylate|2-methyl-cis-aconitase|2mcacn|cis-2-Methylaconitate
+seed:cpd02605	MNXM1602	inferred	(2S)-2-Isopropyl-3-oxosuccinate|2-Oxo-4-methyl-3-carboxypentanoate|2-isopropyl-3-oxosuccinate|3-Carboxy-4-methyl-2-oxopentanoate|3c4mop
+seed:cpd02611	MNXM340	inferred	N-Acetyl-D-glucosamine 1-phosphate|N-Acetyl-D-glucosamine1-phosphate|N-Acetyl-alpha-D-glucosamine 1-phosphate|acgam1p
+seed:cpd02612	MNXM4708	inferred	N-Acetyl-D-mannosamine 6-phosphate|N-Acetylmannosamine 6-phosphate|acmanap
+seed:cpd02625	MNXM114091	inferred	(3R,5S)-1-Pyrroline-3-hydroxy-5-carboxylate|1p3h5c|3-Hydroxy-L-1-pyrroline-5-carboxylate|L-1-Pyrroline-3-hydroxy-5-carboxylate
+seed:cpd02642	MNXM1489	inferred	N-(5-Phospho-D-ribosyl)anthranilate|N-(5-Phospho-beta-D-ribosyl)anthranilate|N-(5-Phosphoribosyl)anthranilic acid|N-(5-phospho-beta-D-ribosyl)-anthranilate|N--5-Phospho-D-ribosylanthranilate|N-5-phosphoribosyl-anthranilate|pran
+seed:cpd02654	MNXM960	inferred	4-Methyl-5-(2-phosphoethyl)-thiazole|4-Methyl-5-(2-phosphono-oxyethyl)-thiazole|4-Methyl-5--2-phosphoethyl-thiazole|4-methyl-5-(2- phosphoethyl)-thiazole|4mpetz
+seed:cpd02656	MNXM1313	inferred	6,7-Dimethyl-8-(1-D-ribityl)lumazine|6-7-Dimethyl-8--1-D-ribityllumazine|dmlz
+seed:cpd02666	MNXM483	inferred	(R)-4'-Phosphopantothenoyl-L-cysteine|4ppcys|N-((R)-4-Phosphopantothenoyl)-L-cysteine|N-(-R-4-Phosphopantothenoyl)-L-cysteine|N-[(R)-4'-Phosphopantothenoyl]-L-cysteine
+seed:cpd02678	MNXM453	inferred	5'-Phosphoribosyl-N-formylglycinamide|5'-phosphoribosylformylglycinamide|N-Formyl-GAR|N-Formylglycinamide ribonucleotide|N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide|N2-Formyl-N1--5-phospho-D-ribosylglycinamide|fgam
+seed:cpd02691	MNXM701	inferred	(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA|(S)-3-Hydroxy-2-methylbutyryl-CoA|2-methyl-3-hydroxy-butyryl-CoA|3hmbcoa|M_3_Hydroxy_2_methyl_butyryl_CoA
+seed:cpd02693	MNXM891	inferred	(2R,3S)-3-Isopropylmalate|2-D-threo-Hydroxy-3-carboxy-isocaproate|3-Carboxy-2-hydroxy-4-methylpentanoate|3-Isopropylmalate|3c2hmp
+seed:cpd02698	MNXM1488	inferred	N-Succinyl-L-2,6-diaminoheptanedioate|N-Succinyl-L-2,6-diaminopimelate|N-Succinyl-LL-2,6-diaminoheptanedioate|N-Succinyl-LL-2,6-diaminopimelate|N-Succinyl-LL-2-6-diaminoheptanedioate|sl26da
+seed:cpd02700	MNXM5034	inferred	2mpdhl|Enzyme N6-(S-[2-methylpropanoyl]dihydrolipoyl)lysine|S-(2-Methylpropanoyl)-dihydrolipoamide|S-(2-Methylpropanoyl)-dihydrolipoamide-E|S-(2-Methylpropionyl)-dihydrolipoamide|S-(2-Methylpropionyl)-dihydrolipoamide-E|[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine
+seed:cpd02701	MNXM3090	inferred	S-Adenosyl-4-methylthio-2-oxobutanoate|amob
+seed:cpd02711	MNXM649	inferred	2-Dehydro-3-deoxy-6-phospho-D-gluconate|2-Dehydro-3-deoxy-D-gluconate 6-phosphate|2-Dehydro-3-deoxy-D-gluconate6-phosphate|2-Keto-3-deoxy-6-phosphogluconate|2-keto-3-deoxy-6-phospho-gluconate|2ddg6p|6-Phospho-2-dehydro-3-deoxy-D-gluconate
+seed:cpd02720	MNXM1178	inferred	5-Amino-2,6-dioxy-4-(5'-phosphoribitylamino)pyrimidine|5-Amino-6-(5'-phosphoribitylamino)uracil|5-Amino-6-(5-phosphoribitylamino)uracil|5-Amino-6--5-phosphoribitylaminouracil|5aprbu
+seed:cpd02724	MNXM1563	inferred	(S)-2-(Succinylamino)-6-oxoheptanedioate|N-Succinyl-2-L-amino-6-oxoheptanedioate|N-Succinyl-2-amino-6-oxo-L-pimelic acid|N-Succinyl-L-2-amino-6-oxoheptanedioate|N-Succinyl-L-2-amino-6-oxopimelate|N-Succinyl-epsilon-keto-L-aminopimelic acid|sl2a6o
+seed:cpd02730	MNXM1647	inferred	2-Dehydro-3-deoxy-D-octonate 8-phosphate|3-Deoxy-D-manno-octulosonate 8-phosphate|3-Deoxy-D-manno-octulosonate8-phosphate|kdo8p
+seed:cpd02738	MNXM2623	inferred	5-Methyltetrahydropteroyltri-L-glutamate|mhpglu
+seed:cpd02740	MNXM1561	inferred	Guanosine 3'-diphosphate 5'-triphosphate|Guanosine 5'-triphosphate,3'-diphosphate|gdptp
+seed:cpd02775	MNXM790	inferred	4-Amino-2-methyl-5-phosphomethylpyrimidine|4-Amino-5-phosphomethyl-2-methylpyrimidine|4ampm
+seed:cpd02791	MNXM522	inferred	5-Methylthio-5-deoxy-D-ribulose 1-phosphate|5-Methylthio-5-deoxy-D-ribulose1-phosphate|5mdru1p|S-Methyl-5-thio-D-ribulose 1-phosphate|methylthioribulose-1-phosphate
+seed:cpd02799	MNXM1694	inferred	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate|Methylisocitrate|Methylisocitric acid|micit
+seed:cpd02820	MNXM1688	inferred	UDP-N-acetyl-3-(1-carboxyvinyl)-D-glucosamine|UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine|UDP-N-acetyl-3-O--1-carboxyvinyl-D-glucosamine|UDP-N-acetylglucosamine enolpyruvate|UDP-N-acetylglucosamine-3-O-pyruvateether|uaccg
+seed:cpd02826	MNXM568	inferred	1-(5'-Phosphoribosyl)-N-formylglycinamidine|2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine|2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine|2--Formamido-N1-(5-phospho-D-ribosyl)acetamidine|5'-Phosphoribosyl-N-formylglycinamidine|5'-Phosphoribosylformylglycinamidine|fpram
+seed:cpd02828	MNXM1628	inferred	2-Hydroxy-5-carboxymethylmuconate semialdehyde|5-Carboxymethyl-2-hydroxymuconate semialdehyde|5-Carboxymethyl-2-hydroxymuconic semialdehyde|5cm2hms
+seed:cpd02835	MNXM1199	inferred	UDP-2,3-bis(3-hydroxytetradecanoyl)-D-glucosamine|UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine|UDP-2,3-bis(beta-hydroxymyristoyl)-D-glucosamine|u23ga
+seed:cpd02843	MNXM1422	inferred	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate|D-erythro-Imidazole-glycerol 3-phosphate|D-erythro-Imidazole-glycerol phosphate|D-erythro-imidazol-glycerol-phosphate|d-erythro-imidazole-glycerol-phosphate|eig3p
+seed:cpd02851	MNXM365	inferred	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide|5'-Phospho-ribosyl-5-amino-4-imidazole carboxamide|5'-Phosphoribosyl-5-amino-4-imidazolecarboxamide|5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide|5-Amino-1--5-Phospho-D-ribosylimidazole-4-carboxamide|5-Aminoimidazole-4-carboxamide ribotide|5-Phosphoribosyl-4-carbamoyl-5-aminoimidazole|AICAR|aicar
+seed:cpd02857	MNXM1219	inferred	2-Dahp|2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate|2-Dehydro-3-deoxy-D-arabino-heptonate7-phosphate|2dda7p|3-Deoxy-D-arabino-hept-2-ulosonate 7-phosphate|3-Deoxy-D-arabino-heptulosonic acid 7-phosphate|3-Deoxy-arabino-heptulonate 7-phosphate|3-deoxy-d-arabino-heptulosonate-7-phosphate|DAHP
+seed:cpd02862	MNXM7865	inferred	UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D- alanine|UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine|UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)|uGgla
+seed:cpd02882	MNXM791	inferred	4-(1-D-Ribitylamino)-5-amino-2,6-dihydroxypyrimidine|4-(1-D-Ribitylamino)-5-aminouracil|4--1-D-Ribitylamino-5-aminouracil|4r5au
+seed:cpd02884	MNXM456	inferred	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide|5'-Phosphoribosyl-5-formamido-4-imidazolecarboxamide|5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide|5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide|5-Formamido-1--5-phospho-D-ribosylimidazole-4-carboxamide|FAICAR|fprica
+seed:cpd02886	MNXM2157	inferred	UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine|UDP-3-O-(beta-hydroxymyristoyl)-N-acetylglucosamine|u3aga
+seed:cpd02893	MNXM507	inferred	1-(5'-Phosphoribosyl)-4-carboxy-5-aminoimidazole|1-(5'-Phosphoribosyl)-5-amino-4-carboxyimidazole|1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxylate|1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate|1-(5-phosphoribosyl)-5-amino-4-imidazolecarboxylate|5'-Phosphoribosyl-4-carboxy-5-aminoimidazole|5'-Phosphoribosyl-5-amino-4-imidazolecarboxylate|5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate|5-amino-1--5-phospho-D-ribosylimidazole-4-carboxylate|5aizc
+seed:cpd02894	MNXM1135	inferred	2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate|2-Methyl-4-amino-5-hydroxymethylpyrimidinediphosphate|2mahmp|4-Amino-2-methyl-5-diphosphomethylpyrimidine
+seed:cpd02904	MNXM1224	inferred	5prdmbz|N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole|alpha-Ribazole 5'-phosphate
+seed:cpd02920	MNXM1160	inferred	2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine diphosphate|2-Amino-4-hydroxy-6-hydroxymethyl-7-8-dihydropteridinediphosphate|2-Amino-7,8-dihydro-4-hydroxy-6-(diphosphooxymethyl)pteridine|6-hydroxymethyl-dihydropterin pyrophosphate|6hmhptpp|7,8-Dihydropterin pyrophosphate
+seed:cpd02921	MNXM607	inferred	(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4- carboxamido]succinate|(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate|1-(5'-Phosphoribosyl)-4-(N-succinocarboxamide)-5-aminoimidazole|1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole|1-(5-Phosphoribosyl)-4-(N-succinocarboxamide)-5-aminoimidazole|1-(5-phosphoribosyl)-4-(N-succino-carboxamide)- 5-aminoimidazole|25aics|5'-Phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole|5-phosphoribosyl-4-(N-succino-carboxamide)- 5-aminoimidazole|S-2-5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido-succinate|SAICAR
+seed:cpd02930	MNXM1839	inferred	2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate|2,3-Bis(beta-hydoroxymyristoyl)-beta-D-glucosaminyl 1-phosphate|Lipid X|lipidX
+seed:cpd02948	MNXM1955	inferred	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho- undecaprenol|Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L- lysyl-D-alanyl-D-alanine|Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine|uaGgla
+seed:cpd02961	MNXM993	inferred	2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8- dihydropteridine|2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine|2-amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine|7,8-dihydroneopterin|Dihydroneopterin|dhnpt|dihydro-neo-pterin
+seed:cpd02964	MNXM1446	inferred	UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6- diaminopimelate|UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diamino- heptanedioate|UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate|UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2-6-diaminopimelate|ugmd
+seed:cpd02968	MNXM1954	inferred	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl- D-alanine|UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D- alanyl-D-alanine|UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine|UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2-6-diaminopimeloyl-D-alanyl-D-alanine|ugmda
+seed:cpd02978	MNXM397	inferred	2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate|2-Amino-4-hydroxy-6--erythro-1-2-3-trihydroxypropyldihydropteridinetriphosphate|6-(L-erythro-1,2-Dihydroxypropyl 3-triphosphate)-7,8-dihydropterin|6-[(1S,2R)-1,2-Dihydroxy-3-triphosphooxypropyl]-7,8-dihydropterin|7,8-Dihydroneopterin 3'-triphosphate|ahdt
+seed:cpd02979	MNXM1397	inferred	1-(5-Phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4-carboxamide|1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide|5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)- imidazole-4-carboxamide|N-(5'-Phospho-D-ribosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)- 4-imidazolecarboxamide|N-(5'-Phosphoribosylformimino)-5-amino-1-(5''-phosphoribosyl)-4- imidazolecarboxamide|N-(5'-phospho-D-ribosylformimino)-5-amino-1-(5''-phosphoribosyl)-4-imidazolecarboxamide|Phosphoribosyl-formimino-AICAR-phosphate|phosphoribosylformimino-AICAR-phosphate|phosphoribosylformiminoaicar-phosphate|prfp
+seed:cpd02991	MNXM1408	inferred	5-[(5-Phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5- phosphoribosyl)imidazole-4-carboxamide|5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide|N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D- ribosyl)-4-imidazolecarboxamide|N-(5'-phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phosphoribosyl)-4-imidazolecarboxamide|Phosphoribulosyl-formimino-AICAR-phosphate|phosphoribulosylformimino-AICAR-phosphate|prlp
+seed:cpd02993	MNXM1754	inferred	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D- glucosamine 1,4'-bisphosphate|2,3,2'3'-Tetrakis(beta-hydroxymyristoyl)-D-glucosaminyl-1,6-beta-D- glucosamine 1,4'-bisphosphate|2,3,2'3'-Tetrakis(beta-hydroxymyristoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate|Lipid A disaccharide bisphosphate|Lipid IV(A)|lipidA
+seed:cpd03002	MNXM1569	inferred	2,3,2',3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta- D-glucosamine 1-phosphate|2,3-Bis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-2,3-bis(3- hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate|2,3-Bis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-2,3-bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate|2,3-Bis-(3-hydroxytetradecanoyl)-D-glucosaminyl-(beta-D-1,6)-2,3- bis(3-hydroxy-tetradecanoyl)-D-glucosaminyl beta-phosphate|2,3-Bis-(beta-hydroxymyristoyl)-D-glucosaminyl-(beta-D-1,6)-2,3- bis(beta-hydroxymyristoyl)-D-glucosaminyl beta-phosphate|Lipid A disaccharide|lipidA
+seed:cpd03049	MNXM1705	inferred	2-(alpha-Hydroxyethyl)thiamine diphosphate|2-Hydroxyethyl-ThPP
+seed:cpd03052	MNXM1745	inferred	Imidazole acetaldehyde|Imidazole-4-acetaldehyde|imzacd
+seed:cpd03091	MNXM316	inferred	5'-Deoxyadenosine|dad-5
+seed:cpd03113	MNXM825	inferred	(S)-3-Hydroxyhexadecanoyl-CoA|3hhdcoa
+seed:cpd03114	MNXM738	inferred	3-Ketopalmitoyl-CoA|3-Oxohexadecanoyl-CoA|3-Oxopalmitoyl-CoA|3ohdcoa
+seed:cpd03115	MNXM767	inferred	(S)-3-Hydroxytetradecanoyl-CoA|3htdcoa
+seed:cpd03116	MNXM733	inferred	(S)-3-Hydroxydodecanoyl-CoA|3hddcoa
+seed:cpd03117	MNXM705	inferred	3-Oxododecanoyl-CoA|3oddcoa
+seed:cpd03118	MNXM674	inferred	(S)-3-Hydroxydecanoyl-CoA|(S)-Hydroxydecanoyl-CoA|3hdccoa
+seed:cpd03119	MNXM677	inferred	3-Oxodecanoyl-CoA|3odcoa
+seed:cpd03120	MNXM766	inferred	(S)-3-Hydroxyoctanoyl-CoA|(S)-Hydroxyoctanoyl-CoA|3hocoa
+seed:cpd03121	MNXM706	inferred	3-Oxooctanoyl-CoA|3oocoa
+seed:cpd03122	MNXM757	inferred	(S)-3-Hydroxyhexanoyl-CoA|(S)-Hydroxyhexanoyl-CoA|3hhcoa
+seed:cpd03123	MNXM717	inferred	3-Ketohexanoyl-CoA|3-Oxohexanoyl-CoA|3ohcoa
+seed:cpd03124	MNXM553	inferred	Hexanoyl-CoA|Hexanoyl-CoA (n-C6:0CoA)|hxcoa
+seed:cpd03125	MNXM753	inferred	(2E)-Hexenoyl-CoA|hx2coa|trans-Hex-2-enoyl-CoA
+seed:cpd03126	MNXM581	inferred	(2E)-Hexadecenoyl-CoA|hdd2coa|trans-2-Hexadecenoyl-CoA|trans-Hexadec-2-enoyl-CoA
+seed:cpd03127	MNXM654	inferred	(2E)-Tetradecenoyl-CoA|td2coa|trans-Tetradec-2-enoyl-CoA|trans-Tetradec-2-enoyl-CoA phosphate, n=30)
+seed:cpd03128	MNXM486	inferred	Decanoyl-CoA|Decanoyl-CoA (n-C10:0CoA)|dccoa
+seed:cpd03129	MNXM580	inferred	(2E)-Decenoyl-CoA|dc2coa|trans-Dec-2-enoyl-CoA
+seed:cpd03130	MNXM784	inferred	(2E)-Octenoyl-CoA|oc2coa|trans-Oct-2-enoyl-CoA
+seed:cpd03187	MNXM1289	inferred	Oxalosuccinate|Oxalosuccinic acid|oxasucc
+seed:cpd03189	MNXM3480	inferred	3-Carboxy-1-hydroxypropyl-ThPP
+seed:cpd03214	MNXM903	inferred	Phytyl diphosphate
+seed:cpd03279	MNXM935	inferred	Deoxyinosine|din
+seed:cpd03279	MNXM935	inferred	Deoxyinosine|din
+seed:cpd03377	MNXM4482	inferred	3-Aminopropiononitrile|beta-Aminopropionitrile
+seed:cpd03407	MNXM11629	inferred	gamma-Glutamyl-beta-cyanoalanine
+seed:cpd03411	MNXM1329	inferred	Glutathionylspermidine|N1-(gamma-L-Glutamyl-L-cysteinyl-glycyl)-spermidine|gtspmd
+seed:cpd03414	MNXM1123	inferred	Uroporphyrinogen I|UroporphyrinogenI|uppg1
+seed:cpd03416	MNXM1322	inferred	Coproporphyrinogen I|CoproporphyrinogenI|cpppg1
+seed:cpd03422	MNXM1549	inferred	Cobinamide|cbi
+seed:cpd03423	MNXM1539	inferred	N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole|alpha-Ribazole|rdmbzi
+seed:cpd03424	MNXM22435	structural	Cob(III)alamin|Cobalamin (III)|Vitamin B12
+seed:cpd03424	MNXM22435	structural	Cob(III)alamin|Cobalamin (III)|Vitamin B12
+seed:cpd03426	MNXM863	inferred	Sirohydrochlorin|scl
+seed:cpd03443	MNXM2195	inferred	3-Octaprenyl-4-hydroxybenzoate|3ophb
+seed:cpd03444	MNXM1886	inferred	2-Octaprenylphenol|2oph
+seed:cpd03445	MNXM1635	inferred	2-Octaprenyl-6-hydroxyphenol|2ohph
+seed:cpd03446	MNXM1707	inferred	2-Octaprenyl-6-methoxyphenol|2omph
+seed:cpd03447	MNXM1903	inferred	2-Octaprenyl-6-methoxy-1,4-benzoquinone|2ombz
+seed:cpd03448	MNXM90440	inferred	2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone|2ommb
+seed:cpd03449	MNXM5555	inferred	2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone|OCTAPRENYL-METHYL-OH-METHOXY-BENZQ
+seed:cpd03451	MNXM1249	inferred	(1R,6R)-2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate|(1R,6R)-6-Hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate|(1S,6R)-6-Hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate|2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate|2-Succinyl-6-hydroxy-2-4-cyclohexadiene-1-carboxylate|2shchc|SHCHC
+seed:cpd03470	MNXM599	inferred	Iminoaspartate|iasp
+seed:cpd03471	MNXM1915	inferred	Nicotinate D-ribonucleoside
+seed:cpd03480	MNXM2160	inferred	2-Hydroxyphenylacetate
+seed:cpd03487	MNXM88512	inferred	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L- alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine|Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine|uaaAgla
+seed:cpd03488	MNXM88510	inferred	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L- alanyl-D-glutaminyl-L-lysyl-D-alanyl-D-alanine|Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutaminyl-L-lysyl-D-alanyl-D-alanine|uaaAgtla
+seed:cpd03490	MNXM7864	inferred	UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysine|uGgl
+seed:cpd03491	MNXM1344	inferred	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L- alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine|Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine|uaaGgla
+seed:cpd03492	MNXM3113	inferred	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L- alanyl-D-isoglutaminyl-L-lysyl-D-alanyl-D-alanine|Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-isoglutaminyl-L-lysyl-D-alanyl-D-alanine|uaaGgtla
+seed:cpd03494	MNXM2264	inferred	Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso- 2,6-diaminopimeloyl-D-alanyl-D-alanine|Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine|Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2-6-diaminopimeloyl-D-alanyl-D-alanine|uagmda
+seed:cpd03495	MNXM1242	inferred	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L- alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine|Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala|Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine|Undecaprenyl-diphospho-N-acetylmuramoyl--N-acetylglucosamine-L-ala-D-glu-meso-2-6-diaminopimeloyl-D-ala-D-ala|uaagmda
+seed:cpd03496	MNXM88508	inferred	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L- alanyl-D-glutaminyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine|Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutaminyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine|uaagtmda
+seed:cpd03517	MNXM2351	inferred	Biotinyl-5'-AMP|Biotinyl-5-AMP|btamp
+seed:cpd03518	MNXM53766	inferred	Formamidopyrimidine nucleoside triphosphate
+seed:cpd03519	MNXM2773	inferred	2,5-Diaminopyrimidine nucleoside triphosphate
+seed:cpd03524	MNXM33047	inferred	10-Formyl-THF-L-glutamate|10-Formyltetrahydrofolyl L-glutamate
+seed:cpd03525	MNXM1757	inferred	(2S)-2-(3-Carboxypropanoylamino)pentanedioic acid|N-Succinyl-L-glutamate|N2-Succinyl-L-glutamate|sucglu
+seed:cpd03526	MNXM1763	inferred	(2S)-2-(3-Carboxypropanoylamino)-5-oxopentanoic acid|N-Succinyl-L-glutamate 5-semialdehyde|N2-Succinyl-L-glutamate 5-semialdehyde|sucgsa
+seed:cpd03557	MNXM26906	inferred	2-Acyl-sn-glycero-3-phosphoethanolamine|L-1-Lysophosphatidylethanolamine|O-(2-Acyl-sn-glycero-3-phospho)-ethanolamine
+seed:cpd03560	MNXM5283	inferred	Propinol adenylate|Propionyladenylate
+seed:cpd03572	MNXM90341	inferred	(S)-3-Hydroxyisobutyryl-CoA|hibcoa
+seed:cpd03584	MNXM2036	inferred	UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine|UDP-3-O-(beta-hydroxymyristoyl)-D-glucosamine|u3hga
+seed:cpd03585	MNXM1206	inferred	(kdo)-lipid iv(a)|3-Deoxy-D-manno-octulosonyl-2',3',2',3'-tetrakis(beta- hydroxymyristoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate|3-Deoxy-D-manno-octulosonyl-lipid IV(A)|KDO-lipid IV(A)|kdolipid4
+seed:cpd03586	MNXM824	inferred	Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A)|KDO(2)-lipid IV(A)|KDO2-lipid IV(A)|kdo2-lipid iva|kdo2lipid4
+seed:cpd03606	MNXM1514	inferred	(3R)-3-Hydroxy-2-oxo-4-phosphonooxybutanoate|2-Oxo-3-hydroxy-4-phosphobutanoate|alpha-Keto-3-hydroxy-4-phosphobutyrate|ohpb
+seed:cpd03607	MNXM759	inferred	4-(Phosphonooxy)-L-threonine|4-(Phosphonooxy)-threonine|O-Phospho-4-hydroxy-L-threonine|phthr
+seed:cpd03608	MNXM1802	inferred	4-Hydroxy-L-threonine|4hthr
+seed:cpd03646	MNXM8633	inferred	gamma-Glutamyl-3-aminopropiononitrile|gamma-Glutamyl-beta-aminopropiononitrile
+seed:cpd03666	MNXM4269	inferred	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)- amino-4-oxopyrimidine
+seed:cpd03671	MNXM969	inferred	D-Glucosamine 1-phosphate|D-Glucosamine1-phosphate|alpha-D-Glucosamine 1-phosphate|gam1p
+seed:cpd03704	MNXM1922	inferred	2'-Deoxyinosine 5'-phosphate|dIMP|dimp
+seed:cpd03706	MNXM12558	inferred	P1,P4-Bis(5'-uridyl) tetraphosphate|UppppU
+seed:cpd03708	MNXM1623	inferred	2,4-Dihydroxyhept-2-1,7-dioate|2,4-Dihydroxyhept-2-enedioate|2,4-Dihydroxyhept-2-enedioic acid
+seed:cpd03736	MNXM1870	inferred	KDO(2)-lipid IV(A) with laurate|Lauroyl-KDO2-lipid IV(A)|kdo2lipid4L
+seed:cpd03830	MNXM1648	inferred	ADP-D-glycero-D-manno-heptose|adphep-D,D
+seed:cpd03831	MNXM857	inferred	ADP-L-glycero-D-manno-heptose|adphep-L
+seed:cpd03847	MNXM314	inferred	Myristic acid|Tetradecanoate|Tetradecanoic acid|tetradecanoate (C14:0)|tetradecanoate (n-C14:0)|ttdca
+seed:cpd03847	MNXM314	inferred	Myristic acid|Tetradecanoate|Tetradecanoic acid|tetradecanoate (C14:0)|tetradecanoate (n-C14:0)|ttdca
+seed:cpd03897	MNXM380	inferred	(6R)-6-(L-erythro-1,2-Dihydroxypropyl)-5,6,7,8-tetrahydro-4a- hydroxypterin|4a-Hydroxy-5,6,4,8-tetrahydrobiopterin|4a-Hydroxytetrahydrobiopterin|4hthb
+seed:cpd03915	MNXM92189	inferred	Cob(I)yrinate a,c diamide|Cob(I)yrinate diamide|Cob(I)yrinic acid a,c-diamide|co1dam
+seed:cpd03916	MNXM92086	inferred	Adenosyl cobyrinate a,c diamide|Adenosyl cobyrinate diamide|Adenosylcob(III)yrinic acid a,c-diamide|Adenosylcobyrinic acid a,c-diamide|adcobdam
+seed:cpd03917	MNXM877	inferred	Adenosyl cobyrinate hexaamide|Adenosylcobyric acid|adcobhex|adenosyl-cobyric acid
+seed:cpd03918	MNXM90939	inferred	Adenosyl cobinamide|adocbi
+seed:cpd03919	MNXM856	inferred	Adenosyl cobinamide phosphate|adocbip
+seed:cpd03920	MNXM1105	inferred	Adenosine-GDP-cobinamide|Adenosylcobinamide-GDP|agdpcbi
+seed:cpd04097	MNXM19009	inferred	Lead|Pb|Pb2+
+seed:cpd04097	MNXM19009	inferred	Lead|Pb|Pb2+
+seed:cpd04122	MNXM2212	inferred	Aminoacetaldehyde|amacald
+seed:cpd04539	MNXM1979	inferred	(2S)-2-Amino-3-oxo-4-phosphonooxybutanoate|2-Amino-3-oxo-4-phosphonooxybutyrate|L-2-Amino-3-oxo-4-phosphonooxybutyrate|amopbut-L
+seed:cpd04918	MNXM17114	inferred	D-Glycero-D-manno-heptose7-phosphate|D-glycero-D-manno-Heptose 7-phosphate|gmhep7p
+seed:cpd04920	MNXM1661	inferred	D-Glycero-D-manno-heptose1-phosphate|D-glycero-D-manno-Heptose 1-phosphate|gmhep1p
+seed:cpd06227	MNXM317	inferred	THF-L-glutamate|THF-polyglutamate|Tetrahydrofolyl-[Glu](2)|Tetrahydrofolyl-[Glu](n)|Tetrahydrofolyl-[Glu](n+1)|Tetrahydropteroyl-[gamma-Glu]n|Tetrahydropteroyl-[gamma-Glu]n+1|thfglu
+seed:cpd08210	MNXM1458	inferred	4-Amino-4-deoxychorismate|4adcho|ADC
+seed:cpd08211	MNXM2473	inferred	tcggrpp|trans,trans,cis-Geranylgeranyl diphosphate|trans,trans,cis-Geranylgeranyl pyrophosphate
+seed:cpd08286	MNXM1626	inferred	2-C-Methyl-D-erythritol 4-phosphate|2-C-methyl-D-erythritol4-phosphate|2-c-methyl-d-erythritol-4-phosphate|2me4p
+seed:cpd08287	MNXM1642	inferred	4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol|4--cytidine5-diphospho-2-C-methyl-D-erythritol|4c2me
+seed:cpd08288	MNXM1641	inferred	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol|2-phospho-4--cytidine5-diphospho-2-C-methyl-D-erythritol|2p4c2me
+seed:cpd08289	MNXM622	inferred	1-Deoxy-D-xylulose 5-phosphate|1-deoxy-D-xylulose5-phosphate|dxyl5p
+seed:cpd08301	MNXM1168	inferred	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate|2-C-methyl-D-erythritol2-4-cyclodiphosphate|2-c-methyl-d-erythritol-2,4-cyclodiphosphate|2mecdp|3-Methyl-1,2,3,4-tetrahydroxybutane-1,3-cyclic bisphosphate
+seed:cpd08316	MNXM1736	inferred	D-Glycero-D-manno-heptose1-7-bisphosphate|D-glycero-D-manno-Heptose 1,7-bisphosphate|gmhep17bp
+seed:cpd08449	MNXM1213	inferred	1-AMINO-PROPAN-2-ONE-3-PHOSPHATE|1-Amino-3-(phosphohydroxy)propan-2-one|3-Amino-2-oxopropyl phosphate
+seed:cpd08615	MNXM606	inferred	(E)-4-Hydroxy-3-methylbut-2-en-1-yl diphosphate|1-Hydroxy-2-methyl-2-butenyl 4-diphosphate|1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate|1-hydroxy-2-methyl-2--E-butenyl4-diphosphate|1-hydroxy-2-methyl-2--butenyl 4-diphosphate|h2mb4p
+seed:cpd08625	MNXM1137	inferred	5-Hydroxyisourate
+seed:cpd09027	MNXM1805	inferred	5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate
+seed:cpd09410	MNXM35431	inferred	2-Phytyl-1,4-naphthoquinone|Demethylphylloquinone
+seed:cpd09844	MNXM2784	inferred	(3S)-3-Hydroxyadipyl-CoA|3hadpcoa
+seed:cpd10162	MNXM114594	inferred	(R)-3-Hydroxy-3-methyl-2-oxopentanoate
+seed:cpd10515	MNXM111	inferred	Fe(II)|Fe2+|Ferrous ion|Iron(2+)|fe2
+seed:cpd10515	MNXM111	inferred	Fe(II)|Fe2+|Ferrous ion|Iron(2+)|fe2
+seed:cpd10516	MNXM196	inferred	Fe(III)|Fe3+|Ferric ion|Iron(3+)|fe3
+seed:cpd10516	MNXM196	inferred	Fe(III)|Fe3+|Ferric ion|Iron(3+)|fe3
+seed:cpd11225	MNXM2887	inferred	3,4-Dihydroxy-2-butanone 4-phosphate|3-4-dihydroxy-2-butanone4-phosphate|db4p
+seed:cpd11295	MNXM409	inferred	2,3-Diketo-5-methylthiopentyl-1-phosphate|2,3-diketo-5-methylthio-1-phosphopentane|2,3-diketo5-methylthio-1-phosphopentane|2-3-diketo-5-methylthio-1-phosphopentane|5-(Methylthio)-2,3-dioxopentyl phosphate|dkmpp
+seed:cpd11313	MNXM1278	inferred	Heme O|hemeO
+seed:cpd11416	BIOMASS	identity	Biomass
+seed:cpd11416	BIOMASS	identity	Biomass
+seed:cpd11420	MNXM148	inferred	Oxidized thioredoxin|Oxidizedthioredoxin|Thioredoxin disulfide|Thioredoxin sulfide|trdox
+seed:cpd11421	MNXM96993	inferred	Reduced thioredoxin|Reducedthioredoxin|Thioredoxin|trdrd
+seed:cpd11422	MNXM109	inferred	1,2-diacyl-sn-glycerol 3-phosphate|12dag3p|12dag3p_BS|3-sn-Phosphatidate|Phosphatidate|Phosphatidic acid|diacylglycerol 3-phosphate|phosphatidate (E.coli)
+seed:cpd11423	MNXM59	inferred	1,2-Diacyl-sn-glycerol|1,2-Diacylglycerol (E.coli)|1,2-diacylglycerol|12dgr|12dgr_BS|D-1,2-Diacylglycerol|Diglyceride|L-1,2-Diacylglycerol|diacylglycerol
+seed:cpd11427	MNXM201	inferred	1,2-Diacyl-sn-glycero-3-cytidine-5'-diphosphate|CDP-1,2-diacylglycerol|CDP-diacylglycerol|CDPdiacylglycerol|CDPdiacylglycerol (B. subtilis)|CDPdiacylglycerol, yeast-specific|cdpdag|cdpdag_BS
+seed:cpd11430	MNXM3990	identity	Fatty acid (Iso-C14:0)|fa1
+seed:cpd11431	MNXM3274	identity	Fatty acid (Iso-C17:0)|fa11
+seed:cpd11432	MNXM5741	identity	Iso-C17:0 CoA   Isoheptadecanoyl-CoA|fa11coa
+seed:cpd11433	MNXM4587	identity	Fatty acid (Anteiso-C17:0)|fa12
+seed:cpd11434	MNXM5742	identity	Anteiso-C17:0 CoA   Anteisoheptadecanoyl-CoA|fa12coa
+seed:cpd11435	MNXM5743	identity	Iso-C14:0 CoA   Isotetradecanoyl-CoA|fa1coa
+seed:cpd11436	MNXM3272	identity	Fatty acid (Iso-C15:0)|fa3
+seed:cpd11437	MNXM5744	identity	Iso-C15:0 CoA   Isopentadecanoyl-CoA|fa3coa
+seed:cpd11438	MNXM4586	identity	Fatty acid (Anteiso-C15:0)|fa4
+seed:cpd11439	MNXM5745	identity	Anteiso-C15:0 CoA   Anteisopentadecanoyl-CoA|fa4coa
+seed:cpd11440	MNXM3273	identity	Fatty acid (iso-C16:0)|fa6
+seed:cpd11441	MNXM5746	identity	Iso-C16:0 CoA   Isohexadecanoyl-CoA|fa6coa
+seed:cpd11454	MNXM871	inferred	1,2-Diacyl-sn-glycero-3-phospho-sn-glycerol 3'-phosphate|3(3-Phosphatidyl-)L-glycerol 1-phosphate|3(3-sn-Phosphatidyl)-sn-glycerol 1-phosphate|3-phosphatidylglycerol 1-phosphate|Phosphatidylglycerophosphate|Phosphatidylglycerophosphate (Ecoli)|Phosphatidylglycerophosphate, yeast-specific|pglyp_BS|pgp|phosphatidylglycerophosphate (B. subtilis)
+seed:cpd11455	MNXM221	inferred	1,2-Diacyl-sn-glycerol 3-phospho-L-serine|3-O-sn-Phosphatidyl-L-serine|O3-Phosphatidyl-L-serine|Phosphatidyl-L-serine|Phosphatidylserine|phosphatidylserine (B. subtilis)|phosphatidylserine, yeast-specific|ps_BS|ps_PA
+seed:cpd11456	MNXM115	inferred	(3-Phosphatidyl)-ethanolamine|(3-Phosphatidyl)ethanolamine|1-Acyl-2-acyl-sn-glycero-3-phosphoethanolamine|Cephalin|O-(1-beta-Acyl-2-acyl-sn-glycero-3-phospho)ethanolamine|Phosphatidylethanolamine|pe_PA|phosphatidylethanolamine (B. subtilis)|phosphatidylethanolamine, yeast-specific|psetha_BS
+seed:cpd11463	MNXM39804	structural	PROTEIN_W|Protein
+seed:cpd11464	MNXM2645	inferred	Butyryl-ACP|Butyryl-ACP (n-C4:0ACP)|Butyryl-[acp]|Butyryl-[acyl-carrier protein]|butACP
+seed:cpd11465	MNXM3229	structural	2beACP|But-2-enoyl-[acyl-carrier protein]
+seed:cpd11466	MNXM564	inferred	Myristoyl-ACP|Myristoyl-ACP (n-C14:0ACP)|Myristoyl-ACP-n-C14-0ACP|Myristoyl-[acyl-carrier protein]|Tetradecanoyl-[acp]|Tetradecanoyl-[acyl-carrier protein]|myrsACP|tetradecanoyl-acp
+seed:cpd11467	MNXM24297	inferred	(2E)-Tetradecenoyl-[acp]|tmrs2eACP|trans-Tetradec-2-enoyl-[acp]|trans-Tetradec-2-enoyl-[acyl-carrier protein]|trans-tetradec-2-enoyl-acp
+seed:cpd11468	MNXM5723	inferred	Dodecanoyl-ACP|Dodecanoyl-ACP (n-C12:0ACP)|Dodecanoyl-[acp]|Dodecanoyl-[acyl-carrier protein]|Lauroyl-[acyl-carrier protein]|ddcaACP
+seed:cpd11469	MNXM23842	inferred	(2E)-Dodecenoyl-[acp]|2tddACP|trans-Dodec-2-enoyl-[acp]|trans-Dodec-2-enoyl-[acyl-carrier protein]|trans-dodec-2-enoyl-acp
+seed:cpd11470	MNXM23586	inferred	Octanoyl-ACP|Octanoyl-ACP (n-C8:0ACP)|Octanoyl-[acp]|Octanoyl-[acyl-carrier protein]|octACP
+seed:cpd11471	MNXM23766	inferred	(2E)-Octenoyl-[acp]|2-Octenoyl-[acyl-carrier protein]|2toceACP|trans-Oct-2-enoyl-[acp]|trans-Oct-2-enoyl-[acyl-carrier protein]
+seed:cpd11472	MNXM23683	inferred	Hexanoyl-ACP|Hexanoyl-ACP (n-C6:0ACP)|Hexanoyl-[acp]|Hexanoyl-[acyl-carrier protein]|hexACP
+seed:cpd11473	MNXM24502	inferred	(2E)-Hexenoyl-[acp]|2theACP|trans-Hex-2-enoyl-[acp]|trans-Hex-2-enoyl-[acyl-carrier protein]|trans-hex-2-enoyl-acp
+seed:cpd11474	MNXM25221	inferred	Decanoyl-ACP|Decanoyl-ACP (n-C10:0ACP)|Decanoyl-[acp]|Decanoyl-[acyl-carrier protein]|decACP
+seed:cpd11475	MNXM28221	inferred	(2E)-Decenoyl-[acp]|2tdeACP|trans-2-Decenoyl-[acyl-carrier protein]|trans-Dec-2-enoyl-[acp]|trans-Dec-2-enoyl-[acyl-carrier protein]|trans-dec-2-enoyl-acp
+seed:cpd11476	MNXM25932	inferred	Hexadecanoyl-[acp]|Hexadecanoyl-[acyl-carrier protein]|hedacp|hexadecanoyl-acp
+seed:cpd11477	MNXM29072	inferred	(2E)-Hexadecenoyl-[acp]|tpalm2eACP|trans-Hexadec-2-enoyl-[acp]|trans-Hexadec-2-enoyl-[acyl-carrier protein]|trans-hexadec-2-enoyl-acp
+seed:cpd11478	MNXM8334	inferred	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]|(R)-3-Hydroxybutanoyl-[acyl-carrier protein]|3hbACP
+seed:cpd11479	MNXM25370	inferred	(R)-3-Hydroxyhexanoyl-[acp]|(R)-3-Hydroxyhexanoyl-[acyl-carrier protein]|3hhACP|D-3-Hydroxyhexanoyl-[acp]|D-3-Hydroxyhexanoyl-[acyl-carrier protein]
+seed:cpd11480	MNXM27066	inferred	(R)-3-Hydroxydodecanoyl-[acp]|(R)-3-Hydroxydodecanoyl-[acyl-carrier protein]|3hddACP|D-3-Hydroxydodecanoyl-[acp]|D-3-Hydroxydodecanoyl-[acyl-carrier protein]
+seed:cpd11481	MNXM2576	inferred	(3R)-3-Hydroxyhexadecanoyl-[acyl-carrier protein]|(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]|(R)-3-Hydroxyhexadecanoyl-[acyl-carrier protein]|(R)-3-Hydroxypalmitoyl-[acyl-carrier protein]|3hpaACP|R-3-hydroxypalmitoyl-[acyl-carrier protein]|R-3-hydroxypalmitoyl-acyl-carrierprotein-
+seed:cpd11482	MNXM7127	inferred	(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]|(R)-3-Hydroxydecanoyl-[acyl-carrier protein]|3hdeACP
+seed:cpd11483	MNXM10019	inferred	(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]|(R)-3-Hydroxyoctanoyl-[acyl-carrier protein]|3hocACP
+seed:cpd11484	MNXM7733	inferred	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]|(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]|3htdACP|HMA|R-3-hydroxy-myristoyl-ACP|beta-Hydroxymyristyl-[acyl-carrier protein]
+seed:cpd11485	MNXM24578	inferred	3-Oxohexadecanoyl-[acp]|3-Oxohexadecanoyl-[acyl-carrier protein]|3-oxohexadecanoyl-acp|3oxhdACP
+seed:cpd11486	MNXM25602	inferred	3-Oxohexanoyl-[acp]|3-Oxohexanoyl-[acyl-carrier protein]|3oxhACP
+seed:cpd11487	MNXM26616	inferred	3-Oxodecanoyl-[acp]|3-Oxodecanoyl-[acyl-carrier protein]|3-oxodecanoyl-acp|3oxdeACP
+seed:cpd11488	MNXM1223	inferred	Acetoacetyl-ACP|Acetoacetyl-[acp]|Acetoacetyl-[acyl-carrier protein]|actACP
+seed:cpd11489	MNXM28933	inferred	3-Oxododecanoyl-[acp]|3-Oxododecanoyl-[acyl-carrier protein]|3-oxododecanoyl-acp|3oxddACP
+seed:cpd11490	MNXM28031	inferred	3-Oxooctanoyl-[acp]|3-Oxooctanoyl-[acyl-carrier protein]|3-oxooctanoyl-acp|3oxocACP
+seed:cpd11491	MNXM26095	inferred	3-Oxotetradecanoyl-[acp]|3-Oxotetradecanoyl-[acyl-carrier protein]|3-oxotetradecanoyl-acp|3oxtdACP
+seed:cpd11492	MNXM184	structural	Malonyl-[acyl-carrier protein]|Malonyl-acyl-carrierprotein-|malACP
+seed:cpd11493	MNXM925	inferred	ACP|Acyl-carrier protein|Holo-[acyl-carrie-protein]|[Acyl-carrier protein]|acyl carrier protein|acylcarrierprotein
+seed:cpd11494	MNXM1269	inferred	Acetyl-ACP|Acetyl-[acyl-carrier protein]|acACP
+seed:cpd11495	MNXM9860	identity	2-methylbutanoyl-ACP|2-methylbutyryl-ACP|cbs_99
+seed:cpd11496	MNXM10219	identity	4-methyl-3-oxo-hexanoyl-ACP
+seed:cpd11497	MNXM10217	identity	4-methyl-3-hydroxy-hexanoyl-ACP
+seed:cpd11498	MNXM8149	identity	4-methyl-trans-hex-2-enoyl-ACP
+seed:cpd11499	MNXM8147	identity	4-methyl-hexanoyl-ACP
+seed:cpd11500	MNXM10370	identity	6-methyl-3-oxo-octanoyl-ACP
+seed:cpd11501	MNXM10368	identity	6-methyl-3-hydroxy-octanoyl-ACP
+seed:cpd11502	MNXM8197	identity	6-methyl-trans-oct-2-enoyl-ACP
+seed:cpd11503	MNXM8195	identity	6-methyl-octanoyl-ACP
+seed:cpd11504	MNXM10448	identity	8-methyl-3-oxo-decanoyl-ACP
+seed:cpd11505	MNXM10446	identity	8-methyl-3-hydroxy-decanoyl-ACP
+seed:cpd11506	MNXM8220	identity	8-methyl-trans-dec-2-enoyl-ACP
+seed:cpd11507	MNXM8218	identity	8-methyl-decanoyl-ACP
+seed:cpd11508	MNXM9655	identity	10-methyl-3-oxo-dodecanoyl-ACP
+seed:cpd11509	MNXM9653	identity	10-methyl-3-hydroxy-dodecanoyl-ACP
+seed:cpd11510	MNXM8004	identity	10-methyl-trans-dodec-2-enoyl-ACP
+seed:cpd11511	MNXM8003	identity	10-methyl-dodecanoyl-ACP
+seed:cpd11512	MNXM9684	identity	12-methyl-3-oxo-tetra-decanoyl-ACP
+seed:cpd11513	MNXM9682	identity	12-methyl-3-hydroxy-tetra-decanoyl-ACP
+seed:cpd11514	MNXM8015	identity	12-methyl-trans-tetra-dec-2-enoyl-ACP
+seed:cpd11515	MNXM6636	identity	12-methyl-tetra-decanoyl-ACP
+seed:cpd11516	MNXM9700	identity	14-methyl-3-oxo-hexa-decanoyl-ACP
+seed:cpd11517	MNXM9698	identity	14-methyl-3-hydroxy-hexa-decanoyl-ACP
+seed:cpd11518	MNXM8024	identity	14-methyl-trans-hexa-dec-2-enoyl-ACP
+seed:cpd11519	MNXM8022	identity	14-methyl-hexa-decanoyl-ACP
+seed:cpd11520	MNXM11926	identity	3-methylbutanoyl-ACP|cbs_378|isovaleryl-ACP
+seed:cpd11521	MNXM10327	identity	5-methyl-3-oxo-hexanoyl-ACP
+seed:cpd11522	MNXM10326	identity	5-methyl-3-hydroxy-hexanoyl-ACP
+seed:cpd11523	MNXM8176	identity	5-methyl-trans-hex-2-enoyl-ACP
+seed:cpd11524	MNXM8175	identity	5-methyl-hexanoyl-ACP
+seed:cpd11525	MNXM10423	identity	7-methyl-3-oxo-octanoyl-ACP
+seed:cpd11526	MNXM10422	identity	7-methyl-3-hydroxy-octanoyl-ACP
+seed:cpd11527	MNXM8210	identity	7-methyl-trans-oct-2-enoyl-ACP
+seed:cpd11528	MNXM8209	identity	7-methyl-octanoyl-ACP
+seed:cpd11529	MNXM10475	identity	9-methyl-3-oxo-decanoyl-ACP
+seed:cpd11530	MNXM10474	identity	9-methyl-3-hydroxy-decanoyl-ACP
+seed:cpd11531	MNXM8226	identity	9-methyl-trans-dec-2-enoyl-ACP
+seed:cpd11532	MNXM8225	identity	9-methyl-decanoyl-ACP
+seed:cpd11533	MNXM9671	identity	11-methyl-3-oxo-dodecanoyl-ACP
+seed:cpd11534	MNXM9670	identity	11-methyl-3-hydroxy-dodecanoyl-ACP
+seed:cpd11535	MNXM8011	identity	11-methyl-trans-dodec-2-enoyl-ACP
+seed:cpd11536	MNXM8010	identity	11-methyl-dodecanoyl-ACP
+seed:cpd11537	MNXM9695	identity	13-methyl-3-oxo-tetra-decanoyl-ACP
+seed:cpd11538	MNXM9694	identity	13-methyl-3-hydroxy-tetra-decanoyl-ACP
+seed:cpd11539	MNXM8019	identity	13-methyl-trans-tetra-dec-2-enoyl-ACP
+seed:cpd11540	MNXM6644	identity	13-methyl-tetra-decanoyl-ACP
+seed:cpd11541	MNXM9707	identity	15-methyl-3-oxo-hexa-decanoyl-ACP
+seed:cpd11542	MNXM9706	identity	15-methyl-3-hydroxy-hexa-decanoyl-ACP
+seed:cpd11543	MNXM8027	identity	15-methyl-trans-hexa-dec-2-enoyl-ACP
+seed:cpd11544	MNXM8026	identity	15-methyl-hexa-decanoyl-ACP
+seed:cpd11545	MNXM11912	identity	2-methylpropionyl-ACP|cbs_374|isobutyryl-ACP
+seed:cpd11546	MNXM10220	identity	4-methyl-3-oxo-pentanoyl-ACP
+seed:cpd11547	MNXM10218	identity	4-methyl-3-hydroxy-pentanoyl-ACP
+seed:cpd11548	MNXM8150	identity	4-methyl-trans-pent-2-enoyl-ACP
+seed:cpd11549	MNXM8148	identity	4-methyl-pentanoyl-ACP
+seed:cpd11550	MNXM10369	identity	6-methyl-3-oxo-heptanoyl-ACP
+seed:cpd11551	MNXM10367	identity	6-methyl-3-hydroxy-heptanoyl-ACP
+seed:cpd11552	MNXM8196	identity	6-methyl-trans-hept-2-enoyl-ACP
+seed:cpd11553	MNXM8194	identity	6-methyl-heptanoyl-ACP
+seed:cpd11554	MNXM10449	identity	8-methyl-3-oxo-nonanoyl-ACP
+seed:cpd11555	MNXM10447	identity	8-methyl-3-hydroxy-nonanoyl-ACP
+seed:cpd11556	MNXM8221	identity	8-methyl-trans-non-2-enoyl-ACP
+seed:cpd11557	MNXM8219	identity	8-methyl-nonanoyl-ACP
+seed:cpd11558	MNXM9656	identity	10-methyl-3-oxo-undecanoyl-ACP
+seed:cpd11559	MNXM9654	identity	10-methyl-3-hydroxy-undecanoyl-ACP
+seed:cpd11560	MNXM8005	identity	10-methyl-trans-undec-2-enoyl-ACP
+seed:cpd11561	MNXM8006	identity	10-methyl-undecanoyl-ACP
+seed:cpd11562	MNXM9685	identity	12-methyl-3-oxo-tridecanoyl-ACP
+seed:cpd11563	MNXM9683	identity	12-methyl-3-hydroxy-tridecanoyl-ACP
+seed:cpd11564	MNXM8016	identity	12-methyl-trans-tridec-2-enoyl-ACP
+seed:cpd11565	MNXM6637	identity	12-methyl-tridecanoyl-ACP
+seed:cpd11566	MNXM9701	identity	14-methyl-3-oxo-pentadecanoyl-ACP
+seed:cpd11567	MNXM9699	identity	14-methyl-3-hydroxy-pentadecanoyl-ACP
+seed:cpd11568	MNXM8025	identity	14-methyl-trans-pentadec-2-enoyl-ACP
+seed:cpd11569	MNXM8023	identity	14-methyl-pentadecanoyl-ACP
+seed:cpd11570	MNXM10116	identity	3-Oxooctodecanoyl-ACP
+seed:cpd11571	MNXM10035	identity	3-Hydroxyoctodecanoyl-ACP
+seed:cpd11572	MNXM9168	identity	trans-Octodec-2-enoyl-ACP
+seed:cpd11573	MNXM7607	identity	Octodecanoyl-ACP
+seed:cpd11580	MNXM55276	inferred	Gly-Gln|L-Glycylglutamine|gly-gln-L
+seed:cpd11581	MNXM55268	inferred	gly-asn-L|glycyl-L-asparagine
+seed:cpd11582	MNXM8264	identity	N-L-alanyl-L-threonine|ala-L-Thr-L
+seed:cpd11582	MNXM8264	identity	N-L-alanyl-L-threonine|ala-L-Thr-L
+seed:cpd11583	MNXM15786	inferred	Ala-Leu|N-L-Alanyl-L-leucine|ala-L-leu-L
+seed:cpd11584	MNXM40496	inferred	Ala-His|Alanylhistidine|ala-L-his-L
+seed:cpd11585	MNXM15783	inferred	L-alagly|L-alanylglycine
+seed:cpd11586	MNXM8263	identity	ala-L-glu-L
+seed:cpd11587	MNXM40495	inferred	Ala-Gln|ala-L-gln-L
+seed:cpd11588	MNXM8670	identity	L-Proline, 1-glycyl-|gly-pro-L
+seed:cpd11589	MNXM55269	inferred	N-glycyl-L-aspartic acid|gly-asp-L
+seed:cpd11590	MNXM8868	identity	met-L-ala-L
+seed:cpd11591	MNXM55287	inferred	Gly-Met|N-Glycyl-L-methionine|gly-met-L
+seed:cpd11592	MNXM55454	inferred	gly-glu-L|glycyl-L-glutamic acid
+seed:cpd11593	MNXM40494	inferred	L-alanyl-L-aspartate|ala-L-asp-L
+seed:cpd11611	MNXM44	inferred	Acyl coenzyme A|Acyl-CoA|acoa
+seed:cpd11611	MNXM44	inferred	Acyl coenzyme A|Acyl-CoA|acoa
+seed:cpd11620	MNXM169	structural	Reduced ferredoxin|Reducedferredoxin|fdxrd
+seed:cpd11621	MNXM178	structural	Oxidized ferredoxin|Oxidizedferredoxin|fdxox
+seed:cpd11640	MNXM195	inferred	H2|Hydrogen|h2
+seed:cpd11652	MNXM101192	inferred	3(3-Phosphatidyl-)glycerol|3-(3-sn-Phosphatidyl)glycerol|Phosphatidylglycerol|Phosphatidylglycerol, yeast-specific|PtdGro|pg
+seed:cpd11665	MNXM89910	identity	CoQH2|QH2|Ubiquinol|qh2
+seed:cpd11669	MNXM80428	inferred	CoQ|Coenzyme Q|Q|Ubiquinone|q
+seed:cpd11677	MNXM248	inferred	Triacylglycerol|Triglyceride|triglyc_SC|triglyceride, yeast-specific
+seed:cpd11751	MNXM90668	structural	tRNA(Tyr)|trnatyr
+seed:cpd11770	MNXM89815	inferred	L-Alanyl-tRNA|L-Alanyl-tRNA(Ala)|alatrna
+seed:cpd11825	MNXM8962	inferred	Octadecenoyl-ACP|Octadecenoyl-ACP (n-C18:1ACP)|Octadecenoyl-[acp]|Octadecenoyl-[acyl-carrier protein]|Oleoyl-[acyl-carrier protein]|cis-octadec-11-enoyl-[acyl-carrier protein]|cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1)|cis-octadec-11-enoyl-acyl-carrierprotein--n-C18-1|octeACP
+seed:cpd11830	MNXM81221	structural	H-Protein-S-aminomethyldihydrolipoyllysine|S-Aminomethyldihydrolipoylprotein|[Protein]-S8-aminomethyldihydrolipoyllysine|alpro
+seed:cpd11906	MNXM89576	structural	tRNA(Ala)|trnaala
+seed:cpd11907	MNXM90751	structural	tRNA(Arg)|trnaarg
+seed:cpd11908	MNXM90665	structural	tRNA(Asn)|trnaasn
+seed:cpd11909	MNXM90752	structural	tRNA(Asp)|trnaasp
+seed:cpd11910	MNXM90666	inferred	tRNA(Cys)|trnacys
+seed:cpd11911	MNXM185	inferred	tRNA(Gln)|trnagln
+seed:cpd11912	MNXM90886	structural	tRNA (Glu)|tRNA(Glu)|tRNA-Glu|trnaglu
+seed:cpd11913	MNXM90340	structural	tRNA(Gly)|trnagly
+seed:cpd11914	MNXM90878	structural	tRNA(His)|trnahis
+seed:cpd11915	MNXM90879	structural	tRNA(Ile)|trnaile
+seed:cpd11916	MNXM90880	structural	tRNA(Leu)|trnaleu
+seed:cpd11917	MNXM90881	structural	tRNA(Lys)|trnalys
+seed:cpd11918	MNXM90882	structural	tRNA(Met)|trnamet
+seed:cpd11919	MNXM90753	structural	tRNA(Phe)|trnaphe
+seed:cpd11920	MNXM90667	structural	tRNA(Pro)|trnapro
+seed:cpd11921	MNXM91028	structural	tRNA(Ser)|trnaser
+seed:cpd11922	MNXM90883	structural	tRNA(Thr)|trnathr
+seed:cpd11923	MNXM90755	structural	tRNA(Trp)|trnatrp
+seed:cpd11924	MNXM90885	structural	tRNA(Val)|trnaval
+seed:cpd12003	MNXM697	inferred	L-Leucyl-tRNA|L-Leucyl-tRNA(Leu)|leutrna
+seed:cpd12005	MNXM998	structural	H-Protein-lipoyllysine|Lipoylprotein|lpro
+seed:cpd12036	MNXM89870	inferred	L-Arginyl-tRNA|L-Arginyl-tRNA(Arg)|argtrna
+seed:cpd12060	MNXM89810	inferred	Gln-tRNA(Gln)|Glutaminyl-tRNA|Glutaminyl-tRNA(Gln)|L-Glutaminyl-tRNA(Gln)|glntrna
+seed:cpd12072	MNXM1222	inferred	Protein dithiol
+seed:cpd12100	MNXM89763	structural	Glycyl-tRNA(Gly)|glytrna
+seed:cpd12105	MNXM28	inferred	L-Methionyl-tRNA|L-Methionyl-tRNA (Met)|L-Methionyl-tRNA(Met)|mettrna
+seed:cpd12132	MNXM89803	structural	L-Seryl-tRNA(Ser)|sertrna
+seed:cpd12133	MNXM90110	structural	L-Valyl-tRNA(Val)|valtrna
+seed:cpd12139	MNXM1221	structural	Protein disulfide
+seed:cpd12164	MNXM247	structural	L-Prolyl-tRNA(Pro)|protrna
+seed:cpd12194	MNXM89822	structural	L-Tyrosyl-tRNA(Tyr)|tyrtrna
+seed:cpd12225	MNXM1663	inferred	Dihydrolipolprotein|Dihydrolipoylprotein|[H Protein]-dihydrolipoyllysine|[Protein]-dihydrolipoyllysine|dhlpro
+seed:cpd12226	MNXM90839	structural	L-Aspartyl-tRNA(Asp)|asptrna
+seed:cpd12227	MNXM89752	inferred	L-Glutamyl-tRNA(Glu)|L-Glutamyl-tRNA-Glu|glutrna
+seed:cpd12228	MNXM89831	structural	L-Histidyl-tRNA(His)|histrna
+seed:cpd12229	MNXM89895	structural	L-Threonyl-tRNA(Thr)|thrtrna
+seed:cpd12237	MNXM90860	structural	Peptide-L-methionine
+seed:cpd12255	MNXM90012	structural	L-Cysteinyl-tRNA(Cys)|cystrna
+seed:cpd12256	MNXM89832	structural	L-Isoleucyl-tRNA(Ile)|iletrna
+seed:cpd12285	MNXM95381	inferred	N-Formylmethionyl-tRNA|fmettrna
+seed:cpd12313	MNXM89761	inferred	Asn-tRNA(Asn)|Asparaginyl-tRNA(Asn)|L-Asparaginyl-tRNA(Asn)|asntrna
+seed:cpd12335	MNXM89802	structural	L-Phenylalanyl-tRNA(Phe)|phetrna
+seed:cpd12336	MNXM89804	structural	L-Tryptophanyl-tRNA(Trp)|trptrna
+seed:cpd12344	MNXM96107	inferred	R-S-Alanine|R-S-Cysteine|S-Substituted L-cysteine
+seed:cpd12370	MNXM2214	inferred	Apo-[acyl-carrier-protein]|apo-ACP|apoACP|apoprotein [acyl carrier protein]
+seed:cpd12543	MNXM5655	structural	Carboxybiotin-carboxyl-carrier protein|btn_co2
+seed:cpd12547	MNXM114214	identity	1-Acyl-sn-glycero-3-phosphoethanolamine|1agpe180|L-2-Lysophosphatidylethanolamine
+seed:cpd12689	MNXM707	inferred	3-Oxotetradecanoyl-CoA|3otdcoa
+seed:cpd12711	MNXM8976	structural	Oxidized azurin
+seed:cpd12712	MNXM9085	structural	Reduced azurin
+seed:cpd12713	MNXM861	structural	e-|electron
+seed:cpd12829	MNXM89811	structural	ASPARTYL-TRNAASN|Asp-tRNA(Asn)|Aspartyl-tRNA(Asn)|L-Aspartyl-tRNA(Asn)
+seed:cpd12848	MNXM96075	structural	Biotin-carboxyl-carrier protein|Holo-[carboxylase]|btn_cbxl
+seed:cpd14507	MNXM21320	inferred	Peptide-L-methionine (R)-S-oxide
+seed:cpd14545	MNXM1984	inferred	Iminoacetic acid|Iminoglycine
+seed:cpd14550	MNXM7141	structural	C15814|Thiamine biosynthesis intermediate 5
+seed:cpd14551	MNXM5649	structural	C15815|Thiamine biosynthesis intermediate 6
+seed:cpd14698	MNXM6824	inferred	3-Methyl-1-hydroxybutyl-TPP|3-Methyl-1-hydroxybutyl-ThPP
+seed:cpd14699	MNXM5589	inferred	S-(3-Methylbutanoyl)-dihydrolipoamide-E|[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine
+seed:cpd14700	MNXM6734	inferred	2-Methyl-1-hydroxypropyl-TPP|2-Methyl-1-hydroxypropyl-ThPP
+seed:cpd14702	MNXM6733	inferred	2-Methyl-1-hydroxybutyl-TPP|2-Methyl-1-hydroxybutyl-ThPP
+seed:cpd14703	MNXM5588	structural	S-(2-Methylbutanoyl)-dihydrolipoamide-E|[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine
+seed:cpd15237	MNXM56352	structural	Hexadecenoate (n-C16:1)|hdcea|hexadecenoate
+seed:cpd15238	MNXM56353	inferred	Hexadecenoyl-CoA|Hexadecenoyl-CoA (n-C16:1CoA)|hdcoa
+seed:cpd15239	MNXM5881	inferred	Hexadecenoyl-ACP|Hexadecenoyl-ACP (n-C16:1ACP)|cis-hexadec-9-enoyl-[acyl-carrier protein]|cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1)|hdeACP
+seed:cpd15268	MNXM3075	identity	Octadecanoyl-ACP|Octadecanoyl-ACP (n-C18:0ACP)|Octadecanoyl-ACP-n-C18-0ACP|ocdACP
+seed:cpd15269	MNXM65309	structural	ocdcea|octadecenoate|octadecenoate (n-C18:1)
+seed:cpd15274	MNXM1848	identity	Octadecenoyl-CoA|Octadecenoyl-CoA (n-C18:1CoA)|odecoa
+seed:cpd15277	MNXM2026	identity	Palmitoyl-ACP|Palmitoyl-ACP (n-C16:0ACP)|Palmitoyl-ACP-n-C16-0ACP|palmACP
+seed:cpd15294	MNXM1469	inferred	Tetradecenoyl-ACP|Tetradecenoyl-ACP (n-C14:1ACP)|cis-tetradec-7-enoyl-[acyl-carrier protein]|cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1)|tdeACP
+seed:cpd15298	MNXM83847	inferred	tetradecenoate|tetradecenoate (n-C14:1)|ttdcea
+seed:cpd15306	MNXM147349	identity	1,2-Diacyl-sn-glycerol didodecanoyl|12dgr120
+seed:cpd15307	MNXM2902	identity	1,2-Diacyl-sn-glycerol ditetradecanoyl|12dgr140
+seed:cpd15308	MNXM147350	identity	1,2-Diacyl-sn-glycerol ditetradec-7-enoyl|12dgr141
+seed:cpd15309	MNXM3132	identity	1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0)|1,2-Diacyl-sn-glycerol dihexadecanoyl|12dgr160
+seed:cpd15310	MNXM146746	identity	1,2-Diacyl-sn-glycerol dihexadec-9-enoyl|12dgr161
+seed:cpd15311	MNXM146748	identity	1,2-Diacyl-sn-glycerol dioctadecanoyl|12dgr180
+seed:cpd15312	MNXM146747	identity	1,2-Diacyl-sn-glycerol dioctadec-11-enoyl|12dgr181
+seed:cpd15313	MNXM147670	identity	1-Acyl-sn-glycero-3-phosphoethanolamine dodecanoyl|1agpe120
+seed:cpd15314	MNXM6598	identity	1-Acyl-sn-glycero-3-phosphoethanolamine tetradecanoyl|1agpe140
+seed:cpd15315	MNXM147672	identity	1-Acyl-sn-glycero-3-phosphoethanolamine tetradec-7-enoyl|1agpe141
+seed:cpd15316	MNXM6600	identity	1-Acyl-sn-glycero-3-phosphoethanolamine hexadecanoyl|1agpe160
+seed:cpd15317	MNXM147671	identity	1-Acyl-sn-glycero-3-phosphoethanolamine hexadec-9-enoyl|1agpe161
+seed:cpd15318	MNXM147673	identity	1-Acyl-sn-glycero-3-phosphoglycerol dodecanoyl|1agpg120
+seed:cpd15319	MNXM147678	identity	1-Acyl-sn-glycero-3-phosphoglycerol tetradecanoyl|1agpg140
+seed:cpd15320	MNXM147677	identity	1-Acyl-sn-glycero-3-phosphoglycerol tetradec-7-enoyl|1agpg141
+seed:cpd15321	MNXM147675	identity	1-Acyl-sn-glycero-3-phosphoglycerol hexadecanoyl|1agpg160
+seed:cpd15322	MNXM147674	identity	1-Acyl-sn-glycero-3-phosphoglycerol hexadec-9-enoyl|1agpg161
+seed:cpd15323	MNXM147676	identity	1-Acyl-sn-glycero-3-phosphoglycerol octadecanoyl|1agpg180
+seed:cpd15324	MNXM6608	identity	1-Acyl-sn-glycero-3-phosphoglycerol octadec-11-enoyl|1agpg181
+seed:cpd15325	MNXM4232	inferred	1-dodecanoyl-sn-glycerol 3-phosphate|1ddecg3p
+seed:cpd15326	MNXM91047	identity	1-hexadec-9-enoyl-sn-glycerol 3-phosphate|1hdec9eg3p
+seed:cpd15327	MNXM90586	identity	1-hexadecanoyl-sn-glycerol 3-phosphate|1hdecg3p
+seed:cpd15328	MNXM91049	identity	1-octadec-11-enoyl-sn-glycerol 3-phosphate|1odec11eg3p
+seed:cpd15329	MNXM32950	inferred	1-octadecanoyl-sn-glycerol 3-phosphate|1odecg3p
+seed:cpd15330	MNXM91053	identity	1-tetradec-7-enoyl-sn-glycerol 3-phosphate|1tdec7eg3p
+seed:cpd15331	MNXM3426	inferred	1-tetradecanoyl-sn-glycerol 3-phosphate|1tdecg3p
+seed:cpd15336	MNXM146494	identity	2-Acyl-sn-glycero-3-phosphoethanolamine dodecanoyl|2agpe120
+seed:cpd15337	MNXM3446	identity	2-Acyl-sn-glycero-3-phosphoethanolamine tetradecanoyl|2agpe140
+seed:cpd15338	MNXM146497	identity	2-Acyl-sn-glycero-3-phosphoethanolamine tetradec-7-enoyl|2agpe141
+seed:cpd15339	MNXM34810	inferred	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0)|2-Acyl-sn-glycero-3-phosphoethanolamine hexadecanoyl|2agpe160
+seed:cpd15340	MNXM146495	identity	2-Acyl-sn-glycero-3-phosphoethanolamine hexadec-9-enoyl|2agpe161
+seed:cpd15341	MNXM34811	inferred	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0)|2-Acyl-sn-glycero-3-phosphoethanolamine octadecanoyl|2agpe180
+seed:cpd15342	MNXM146496	identity	2-Acyl-sn-glycero-3-phosphoethanolamine octadec-11-enoyl|2agpe181
+seed:cpd15343	MNXM146498	identity	2-Acyl-sn-glycero-3-phosphoglycerol dodecanoyl|2agpg120
+seed:cpd15344	MNXM146503	identity	2-Acyl-sn-glycero-3-phosphoglycerol tetradecanoyl|2agpg140
+seed:cpd15345	MNXM146502	identity	2-Acyl-sn-glycero-3-phosphoglycerol tetradec-7-enoyl|2agpg141
+seed:cpd15346	MNXM146342	identity	2-Acyl-sn-glycero-3-phosphoglycerol hexadecanoyl|2agpg160
+seed:cpd15347	MNXM146499	identity	2-Acyl-sn-glycero-3-phosphoglycerol hexadec-9-enoyl|2agpg161
+seed:cpd15348	MNXM146501	identity	2-Acyl-sn-glycero-3-phosphoglycerol octadecanoyl|2agpg180
+seed:cpd15349	MNXM146500	identity	2-Acyl-sn-glycero-3-phosphoglycerol octadec-11-enoyl|2agpg181
+seed:cpd15350	MNXM5461	identity	2-dodecanoyl-sn-glycerol 3-phosphate|2ddecg3p
+seed:cpd15352	MNXM2178	inferred	2-Demethylmenaquinone 8|2dmmq8
+seed:cpd15353	MNXM558	inferred	2-Demethylmenaquinol 8|2dmmql8
+seed:cpd15354	MNXM5464	identity	2-hexadec-9-enoyl-sn-glycerol 3-phosphate|2hdec9eg3p
+seed:cpd15355	MNXM60396	inferred	2-hexadecanoyl-sn-glycerol 3-phosphate|2hdecg3p
+seed:cpd15357	MNXM5480	identity	2-octadec-11-enoyl-sn-glycerol 3-phosphate|2odec11eg3p
+seed:cpd15358	MNXM60397	inferred	2-octadecanoyl-sn-glycerol 3-phosphate|2odecg3p
+seed:cpd15362	MNXM5490	identity	2-tetradec-7-enoyl-sn-glycerol 3-phosphate|2tdec7eg3p
+seed:cpd15363	MNXM5491	identity	2-tetradecanoyl-sn-glycerol 3-phosphate|2tdecg3p
+seed:cpd15378	MNXM107505	inferred	4-Hydroxy-benzyl alcohol|4-Hydroxy-benzylalcohol|4-hydroxybenzyl alcohol|4hba
+seed:cpd15417	MNXM4507	identity	CDP-1,2-didodecanoylglycerol|cdpdddecg
+seed:cpd15418	MNXM4508	identity	CDP-1,2-dihexadec-9-enoylglycerol|cdpdhdec9eg
+seed:cpd15419	MNXM3232	identity	CDP-1,2-dihexadecanoylglycerol|cdpdhdecg
+seed:cpd15420	MNXM4509	identity	CDP-1,2-dioctadec-11-enoylglycerol|cdpdodec11eg
+seed:cpd15421	MNXM45856	inferred	CDP-1,2-dioctadecanoylglycerol|cdpdodecg
+seed:cpd15422	MNXM4511	identity	CDP-1,2-ditetradec-7-enoylglycerol|cdpdtdec7eg
+seed:cpd15423	MNXM4512	identity	CDP-1,2-ditetradecanoylglycerol|cdpdtdecg
+seed:cpd15484	MNXM2582	inferred	heptosyl-heptosyl-kdo2-lipidA|hhlipa
+seed:cpd15485	MNXM2680	inferred	heptosyl-kdo2-lipidA|hlipa
+seed:cpd15499	MNXM223	inferred	Menaquinol 8|mql8
+seed:cpd15500	MNXM509	inferred	Menaquinone 8|mqn8
+seed:cpd15521	MNXM90509	identity	1,2-didodecanoyl-sn-glycerol 3-phosphate|pa120
+seed:cpd15522	MNXM51017	inferred	1,2-ditetradecanoyl-sn-glycerol 3-phosphate|pa140
+seed:cpd15523	MNXM90512	identity	1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate|pa141
+seed:cpd15524	MNXM17312	inferred	1,2-dihexadecanoyl-sn-glycerol 3-phosphate|pa160
+seed:cpd15525	MNXM90510	identity	1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate|pa161
+seed:cpd15526	MNXM51279	inferred	1,2-dioctadecanoyl-sn-glycerol 3-phosphate|pa180
+seed:cpd15527	MNXM90511	identity	1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate|pa181
+seed:cpd15528	MNXM71176	inferred	pe120|phosphatidylethanolamine (didodecanoyl, n-C12:0)|phosphatidylethanolamine didodecanoyl
+seed:cpd15529	MNXM2859	identity	pe140|phosphatidylethanolamine ditetradecanoyl
+seed:cpd15530	MNXM146608	identity	pe141|phosphatidylethanolamine ditetradec-7-enoyl
+seed:cpd15531	MNXM32178	inferred	pe160|phosphatidylethanolamine (dihexadecanoyl, n-C16:0)|phosphatidylethanolamine dihexadecanoyl
+seed:cpd15532	MNXM71458	inferred	pe161|phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1)|phosphatidylethanolamine dihexadec-9enoyl
+seed:cpd15533	MNXM31536	inferred	pe180|phosphatidylethanolamine (dioctadecanoyl, n-C18:0)|phosphatidylethanolamine dioctadecanoyl
+seed:cpd15534	MNXM2150	identity	pe181|phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1)|phosphatidylethanolamine dioctadec-11-enoyl
+seed:cpd15535	MNXM1771	identity	Phosphatidylglycerol (didodecanoyl, n-C12:0)|Phosphatidylglycerol didodecanoyl|pg120
+seed:cpd15536	MNXM145672	identity	Phosphatidylglycerol ditetradecanoyl|pg140
+seed:cpd15537	MNXM145918	identity	Phosphatidylglycerol ditetradec-7-enoyl|pg141
+seed:cpd15538	MNXM32179	inferred	Phosphatidylglycerol (dihexadecanoyl, n-C16:0)|Phosphatidylglycerol dihexadecanoyl|pg160
+seed:cpd15539	MNXM75101	inferred	Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1)|Phosphatidylglycerol dihexadec-9-enoyl|pg161
+seed:cpd15540	MNXM75102	inferred	Phosphatidylglycerol (dioctadecanoyl, n-C18:0)|Phosphatidylglycerol dioctadecanoyl|pg180
+seed:cpd15541	MNXM1773	identity	Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1)|Phosphatidylglycerol dioctadec-11-enoyl|pg181
+seed:cpd15542	MNXM91685	identity	Phosphatidylglycerophosphate (didodecanoyl, n-C12:0)|Phosphatidylglycerophosphate didodecanoyl|pgp120
+seed:cpd15543	MNXM91691	identity	Phosphatidylglycerophosphate ditetradecanoyl|pgp140
+seed:cpd15544	MNXM91690	identity	Phosphatidylglycerophosphate ditetradec-7-enoyl|pgp141
+seed:cpd15545	MNXM32180	inferred	Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)|Phosphatidylglycerophosphate dihexadecanoyl|pgp160
+seed:cpd15546	MNXM75103	inferred	Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1)|Phosphatidylglycerophosphate dihexadec-9-enoyl|pgp161
+seed:cpd15547	MNXM75104	inferred	Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0)|Phosphatidylglycerophosphate dioctadecanoyl|pgp180
+seed:cpd15548	MNXM91688	identity	Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1)|Phosphatidylglycerophosphate dioctadec-11-enoyl|pgp181
+seed:cpd15552	MNXM92575	identity	phosphatidylserine (didodecanoyl, n-C12:0)|phosphatidylserine didodecanoyl|ps120
+seed:cpd15553	MNXM92581	identity	phosphatidylserine ditetradecanoyl|ps140
+seed:cpd15554	MNXM92580	identity	phosphatidylserine ditetradec-7-enoyl|ps141
+seed:cpd15555	MNXM32181	inferred	phosphatidylserine (dihexadecanoyl, n-C16:0)|phosphatidylserine dihexadecanoyl|ps160
+seed:cpd15556	MNXM92576	identity	phosphatidylserine (dihexadec-9-enoyl, n-C16:1)|phosphatidylserine dihexadec-9-enoyl|ps161
+seed:cpd15557	MNXM75116	inferred	phosphatidylserine (dioctadecanoyl, n-C18:0)|phosphatidylserine dioctadecanoyl|ps180
+seed:cpd15558	MNXM92578	identity	phosphatidylserine (dioctadec-11-enoyl, n-C18:1)|phosphatidylserine dioctadec-11-enoyl|ps181
+seed:cpd15560	MNXM232	inferred	Ubiquinone-8|q8
+seed:cpd15561	MNXM191	inferred	Ubiquinol-8|q8h2
+seed:cpd15603	MNXM8666	inferred	Gly-Cys|gly-cys-L
+seed:cpd15604	MNXM126241	inferred	Gly-Leu|gly-leu-L
+seed:cpd15605	MNXM8669	inferred	Gly-Phe|gly-phe-L
+seed:cpd15606	MNXM8671	inferred	Gly-Tyr
+seed:cpd15661	MNXM7696	identity	45(Phosphoglyceryl)-N-Acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenol|Prenol-45n teichoic acid
+seed:cpd15662	MNXM12742	identity	45(Glucosyl-phosphoglyceryl)-N-Acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenol|Prenol-45n teichoic acid-glucose substituted
+seed:cpd15663	MNXM12741	identity	45(Alanyl-phosphoglyceryl)-N-Acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenol|Prenol-45n teichoic acid-alanine substituted
+seed:cpd15665	MNXM7630	identity	Peptidoglycan polymer (n subunits)
+seed:cpd15666	MNXM5258	identity	Peptidoglycan polymer (n-1 subunits)
+seed:cpd15667	MNXM8675	identity	glycerol teichoic acid (n=45), linked, unsubstituted
+seed:cpd15668	MNXM8673	identity	glycerol teichoic acid (n=45), linked, D-ala substituted
+seed:cpd15669	MNXM8674	identity	glycerol teichoic acid (n=45), linked, glucose substituted
+seed:cpd15671	MNXM9620	identity	1-isoheptadecanoyl-sn-glycerol 3-phosphate
+seed:cpd15672	MNXM9603	identity	1-anteisoheptadecanoyl-sn-glycerol 3-phosphate
+seed:cpd15673	MNXM9623	identity	1-isotetradecanoyl-sn-glycerol 3-phosphate
+seed:cpd15674	MNXM9622	identity	1-isopentadecanoyl-sn-glycerol 3-phosphate
+seed:cpd15675	MNXM9604	identity	1-anteisopentadecanoyl-sn-glycerol 3-phosphate
+seed:cpd15676	MNXM9621	identity	1-isohexadecanoyl-sn-glycerol 3-phosphate
+seed:cpd15677	MNXM6580	identity	1,2-diisoheptadecanoyl-sn-glycerol 3-phosphate
+seed:cpd15678	MNXM6573	identity	1,2-dianteisoheptadecanoyl-sn-glycerol 3-phosphate
+seed:cpd15679	MNXM6583	identity	1,2-diisotetradecanoyl-sn-glycerol 3-phosphate
+seed:cpd15680	MNXM6582	identity	1,2-diisopentadecanoyl-sn-glycerol 3-phosphate
+seed:cpd15681	MNXM6574	identity	1,2-dianteisopentadecanoyl-sn-glycerol 3-phosphate
+seed:cpd15682	MNXM6581	identity	1,2-diisohexadecanoyl-sn-glycerol 3-phosphate
+seed:cpd15683	MNXM8379	identity	CDP-1,2-diisoheptadecanoylglycerol
+seed:cpd15684	MNXM8377	identity	CDP-1,2-dianteisoheptadecanoylglycerol
+seed:cpd15685	MNXM8382	identity	CDP-1,2-diisotetradecanoylglycerol
+seed:cpd15686	MNXM8381	identity	CDP-1,2-diisopentadecanoylglycerol
+seed:cpd15687	MNXM8378	identity	CDP-1,2-dianteisopentadecanoylglycerol
+seed:cpd15688	MNXM8380	identity	CDP-1,2-diisohexadecanoylglycerol
+seed:cpd15689	MNXM11393	identity	Diisoheptadecanoylphosphatidylserine
+seed:cpd15690	MNXM11359	identity	Dianteisoheptadecanoylphosphatidylserine
+seed:cpd15691	MNXM11399	identity	Diisotetradecanoylphosphatidylserine
+seed:cpd15692	MNXM11397	identity	Diisopentadecanoylphosphatidylserine
+seed:cpd15693	MNXM11361	identity	Dianteisopentadecanoylphosphatidylserine
+seed:cpd15694	MNXM11395	identity	Diisohexadecanoylphosphatidylserine
+seed:cpd15695	MNXM7305	identity	Diisoheptadecanoylphosphatidylethanolamine
+seed:cpd15696	MNXM7294	identity	Dianteisoheptadecanoylphosphatidylethanolamine
+seed:cpd15697	MNXM7308	identity	Diisotetradecanoylphosphatidylethanolamine
+seed:cpd15698	MNXM7307	identity	Diisopentadecanoylphosphatidylethanolamine
+seed:cpd15699	MNXM7295	identity	Dianteisopentadecanoylphosphatidylethanolamine
+seed:cpd15700	MNXM7306	identity	Diisohexadecanoylphosphatidylethanolamine
+seed:cpd15701	MNXM7958	identity	1,2-Diisoheptadecanoyl-sn-glycerol
+seed:cpd15702	MNXM7956	identity	1,2-Dianteisoheptadecanoyl-sn-glycerol
+seed:cpd15703	MNXM7961	identity	1,2-Diisotetradecanoyl-sn-glycerol
+seed:cpd15704	MNXM7960	identity	1,2-Diisopentadecanoyl-sn-glycerol
+seed:cpd15705	MNXM7957	identity	1,2-Dianteisopentadecanoyl-sn-glycerol
+seed:cpd15706	MNXM7959	identity	1,2-Diisohexadecanoyl-sn-glycerol
+seed:cpd15716	MNXM11392	identity	Diisoheptadecanoylphosphatidylglycerophosphate
+seed:cpd15717	MNXM11358	identity	Dianteisoheptadecanoylphosphatidylglycerophosphate
+seed:cpd15718	MNXM11398	identity	Diisotetradecanoylphosphatidylglycerophosphate
+seed:cpd15719	MNXM11396	identity	Diisopentadecanoylphosphatidylglycerophosphate
+seed:cpd15720	MNXM11360	identity	Dianteisopentadecanoylphosphatidylglycerophosphate
+seed:cpd15721	MNXM11394	identity	Diisohexadecanoylphosphatidylglycerophosphate
+seed:cpd15722	MNXM5129	identity	Diisoheptadecanoylphosphatidylglycerol
+seed:cpd15723	MNXM5124	identity	Dianteisoheptadecanoylphosphatidylglycerol
+seed:cpd15724	MNXM5132	identity	Diisotetradecanoylphosphatidylglycerol
+seed:cpd15725	MNXM5131	identity	Diisopentadecanoylphosphatidylglycerol
+seed:cpd15726	MNXM5125	identity	Dianteisopentadecanoylphosphatidylglycerol
+seed:cpd15727	MNXM5130	identity	Diisohexadecanoylphosphatidylglycerol
+seed:cpd15791	MNXM6370	identity	Palmitoylcardiolipin (B. subtilis)
+seed:cpd15792	MNXM6335	identity	Myristoylcardiolipin (B. subtilis)
+seed:cpd15793	MNXM6440	identity	Stearoylcardiolipin (B. subtilis)
+seed:cpd15794	MNXM6297	identity	Isoheptadecanoylcardiolipin (B. subtilis)
+seed:cpd15795	MNXM6175	identity	Anteisoheptadecanoylcardiolipin (B. subtilis)
+seed:cpd15796	MNXM18772	identity	Isotetradecanoylcardiolipin (B. subtilis)
+seed:cpd15797	MNXM6301	identity	Isopentadecanoylcardiolipin (B. subtilis)
+seed:cpd15798	MNXM6176	identity	Anteisopentadecanoylcardiolipin (B. subtilis)
+seed:cpd15799	MNXM6298	identity	Isohexadecanoylcardiolipin (B. subtilis)
+seed:cpd16379	MNXM6170	inferred	Aminopropylcadaverine
+seed:cpd16496	MNXM7734	inferred	R-S-Cysteinylglycine
+seed:cpd16629	MNXM6365	identity	C18:0-ACP|octadenoyl-acp
+seed:cpd16661	MNXM8645	identity	PEPTIDO_W|generic peptidoglycan (mass)
+seed:cpd16661	MNXM8645	identity	PEPTIDO_W|generic peptidoglycan (mass)

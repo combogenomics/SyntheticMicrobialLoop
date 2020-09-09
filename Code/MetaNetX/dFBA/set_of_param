@@ -1,0 +1,36 @@
+%                 DilRate_B = [.05 .07  .05 .07 .03 .01 .05 .9]
+%                 DilRate_D = [.05  .05 .05  .05 .05 .05 .03 .1]
+%                 DilRate_C = [.03 .03 .05 .05 .07 .07 .01 .6]
+
+%                   DilRate_B = [.05 .07 .03 ]
+%                   DilRate_D = [.05 .05 .05]
+%                   DilRate_C = [.05 .05 .07 ]
+
+%                   DilRate_B = [.07 ]
+%                   DilRate_D = [.05 ]
+%                   DilRate_C = [.07 ]
+% 
+%                   DilRate_B = [.3]
+%                   DilRate_D = [.05 ]
+%                   DilRate_C = [.3]
+                  
+%                   DilRate_B = [.3  .35  .35 ]
+%                   DilRate_D = [.05 .05 .05]
+%                   DilRate_C = [.3  .35  .4]
+                  
+%                   DilRate_B = [.35  .35  .35 ]
+%                   DilRate_D = [.05 .05 .05]
+%                   DilRate_C = [.5  .6  .7]
+                  
+%                   DilRate_B = [.37  .37  .4 ]
+%                   DilRate_D = [.05 .05 .05]
+%                   DilRate_C = [.9  .99  .9]
+%                   
+%                   DilRate_B = [.37  .37  .38 .4 ]
+%                   DilRate_D = [.05 .05   .05 .05]
+%                   DilRate_C = [.9  .99   .99 .9]
+% 
+%                   DilRate_B = [ .39   .40  ]
+%                   DilRate_D = [ .05   .05  ]
+%                   DilRate_C = [ .99   .99  ]
+%                   
